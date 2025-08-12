@@ -101,7 +101,7 @@
 [37. Voyage of the Damned (1976)](#voyage-of-the-damned-1976)
 
 
-# *Above Us the Waves* (1955) {#above-us-the-waves-1955}
+# *Above Us the Waves* (1955)
 [Watch on YouTube](https://youtu.be/OibSKE2DjuM?si=UEd41lrGwZyxLm8m)
 
 **Release Date:** December 15, 1955 (UK)
