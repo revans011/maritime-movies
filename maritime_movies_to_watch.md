@@ -1,39 +1,114 @@
-Table of Contents
-1.	Atlantic Convoy (1942)
-2.	Battle of the Coral Sea (1959)
-3.	Battle Stations (1956)
-4.	Captain Phillips (2013)
-5.	Close Quarters (1943)
-6.	Crash Dive (1943)
-7.	Death on the Nile (2022)
-8.	Flat Top (1952)
-9.	Ghost of the China Sea (1958)
-10.	Hell and High Water (1954)
-11.	Hell Below Zero (1954)
-12.	Morituri (1965)
-13.	Romance on the High Seas (1948)
-14.	Sailor of the King (1953)
-15.	Son of Fury: The Story of Benjamin Blake (1942)
-16.	Souls at Sea (1937)
-17.	Submarine Raider (1942)
-18.	Task Force (1949)
-19.	The Enemy Below (1957)
-20.	The Fortunes of Captain Blood (1950)
-21.	The Frogmen (1951)
-22.	The Neptune Factor (1973)
-23.	The Pirate of the Seven Seas (1953)
-24.	The Poseidon Adventure (1972)
-25.	The Poseidon Adventure (2005)
-26.	The Sea Wolf (1993)
-27.	The Sea Wolf (1997)
-28.	The Sea Wolf (2009)
-29.	The Sea Wolves (1980)
-30.	The Seas Shall Not Have Them (1954)
-31.	The Spy in Black (1939)
-32.	The Wreck of the Mary Deare (1959)
-33.	U-boat Prisoner (1944)
-34.	Western Approaches (1944)
-35.	You’re in the Navy Now (1951)
+# Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
+
+1. [Atlantic Convoy (1942)](#atlantic-convoy-1942)
+
+1. [Battle of the Coral Sea (1959)](#battle-of-the-coral-sea-1959)
+
+1. [Battle Stations (1956)](#battle-stations-1956)
+
+[4. Captain Phillips (2013)](#captain-phillips-2013)
+
+[5. Close Quarters (1943)](#close-quarters-1943)
+
+[6. Crash Dive (1943)](#crash-dive-1943)
+
+[7. Death on the Nile (2022)](#death-on-the-nile-2022)
+
+[8. Flat Top (1952)](#flat-top-1952)
+
+[9. Ghost of the China Sea (1958)](#ghost-of-the-china-sea-1958)
+
+[10. Hell and High Water (1954)](#hell-and-high-water-1954)
+
+[11. Hell Below Zero (1954)](#hell-below-zero-1954)
+
+[12. Morituri (1965)](#morituri-1965)
+
+[13. Romance on the High Seas (1948)](#romance-on-the-high-seas-1948)
+
+[14. Sailor of the King (1953)](#sailor-of-the-king-1953)
+
+[15. Son of Fury: The Story of Benjamin Blake (1942)](#son-of-fury-the-story-of-benjamin-blake-1942)
+
+[16. Souls at Sea (1937)](#souls-at-sea-1937)
+
+[17. Submarine Raider (1942)](#submarine-raider-1942)
+
+[18. Task Force (1949)](#task-force-1949)
+
+[19. The Enemy Below (1957)](#the-enemy-below-1957)
+
+[20. The Fortunes of Captain Blood (1950)](#the-fortunes-of-captain-blood-1950)
+
+[21. The Frogmen (1951)](#the-frogmen-1951)
+
+[22. The Neptune Factor (1973)](#the-neptune-factor-1973)
+
+[23. The Pirate of the Seven Seas (1953)](#the-pirate-of-the-seven-seas-1953)
+
+[24. The Poseidon Adventure (1972)](#the-poseidon-adventure-1972)
+
+[25. The Poseidon Adventure (2005)](#the-poseidon-adventure-2005)
+
+[26. The Sea Wolf (1993)](#the-sea-wolf-1993)
+
+[27. The Sea Wolf (1997)](#the-sea-wolf-1997)
+
+[28. The Sea Wolf (2009)](#the-sea-wolf-2009)
+
+[29. The Sea Wolves (1980)](#the-sea-wolves-1980)
+
+[30. The Seas Shall Not Have Them (1954)](#the-seas-shall-not-have-them-1954)
+
+[31. The Spy in Black (1939)](#the-spy-in-black-1939)
+
+[32. The Wreck of the Mary Deare (1959)](#the-wreck-of-the-mary-deare-1959)
+
+[33. U-boat Prisoner (1944)](#u-boat-prisoner-1944)
+
+[34. Western Approaches (1944)](#western-approaches-1944)
+
+[35. You’re in the Navy Now (1951)](#you-re-in-the-navy-now-1951)
+
+## Table of Contents
+- [*Atlantic Convoy* (1942)] {#atlantic-convoy-1942}(#atlantic-convoy-1942-atlantic-convoy-1942)
+- [*Battle of the Coral Sea* (1959) {#battle-of-the-coral-sea-1959}](#battle-of-the-coral-sea-1959-battle-of-the-coral-sea-1959)
+- [*Battle Stations* (1956) {#battle-stations-1956}](#battle-stations-1956-battle-stations-1956)
+- [*Captain Phillips* (2013) {#captain-phillips-2013}](#captain-phillips-2013-captain-phillips-2013)
+- [*Close Quarters* (1943) {#close-quarters-1943}](#close-quarters-1943-close-quarters-1943)
+- [*Crash Dive* (1943) {#crash-dive-1943}](#crash-dive-1943-crash-dive-1943)
+- [*Death on the Nile* (2022) {#death-on-the-nile-2022}](#death-on-the-nile-2022-death-on-the-nile-2022)
+- [*Flat Top* (1952) {#flat-top-1952}](#flat-top-1952-flat-top-1952)
+- [*Ghost of the China Sea* (1958) {#ghost-of-the-china-sea-1958}](#ghost-of-the-china-sea-1958-ghost-of-the-china-sea-1958)
+- [*Hell and High Water* (1954) {#hell-and-high-water-1954}](#hell-and-high-water-1954-hell-and-high-water-1954)
+- [*Hell Below Zero* (1954) {#hell-below-zero-1954}](#hell-below-zero-1954-hell-below-zero-1954)
+- [*Morituri* (1965) {#morituri-1965}](#morituri-1965-morituri-1965)
+- [*Romance on the High Seas* (1948) {#romance-on-the-high-seas-1948}](#romance-on-the-high-seas-1948-romance-on-the-high-seas-1948)
+- [*Sailor of the King* (1953) {#sailor-of-the-king-1953}](#sailor-of-the-king-1953-sailor-of-the-king-1953)
+- [*Son of Fury: The Story of Benjamin Blake* (1942) {#son-of-fury-the-story-of-benjamin-blake-1942}](#son-of-fury-the-story-of-benjamin-blake-1942-son-of-fury-the-story-of-benjamin-blake-1942)
+- [*Souls at Sea* (1937) {#souls-at-sea-1937}](#souls-at-sea-1937-souls-at-sea-1937)
+- [*Submarine Raider* (1942) {#submarine-raider-1942}](#submarine-raider-1942-submarine-raider-1942)
+- [*Task Force* (1949) {#task-force-1949}](#task-force-1949-task-force-1949)
+- [*The Enemy Below* (1957) {#the-enemy-below-1957}](#the-enemy-below-1957-the-enemy-below-1957)
+- [*The Fortunes of Captain Blood* (1950) {#the-fortunes-of-captain-blood-1950}](#the-fortunes-of-captain-blood-1950-the-fortunes-of-captain-blood-1950)
+- [*The Frogmen* (1951) {#the-frogmen-1951}](#the-frogmen-1951-the-frogmen-1951)
+- [*The Neptune Factor* (1973) {#the-neptune-factor-1973}](#the-neptune-factor-1973-the-neptune-factor-1973)
+- [*The Pirate of the Seven Seas* (1953) {#the-pirate-of-the-seven-seas-1953}](#the-pirate-of-the-seven-seas-1953-the-pirate-of-the-seven-seas-1953)
+- [*The Poseidon Adventure* (1972) {#the-poseidon-adventure-1972}](#the-poseidon-adventure-1972-the-poseidon-adventure-1972)
+- [*The Poseidon Adventure* (2005) {#the-poseidon-adventure-2005}](#the-poseidon-adventure-2005-the-poseidon-adventure-2005)
+- [*The Sea Wolf* (1993) {#the-sea-wolf-1993}](#the-sea-wolf-1993-the-sea-wolf-1993)
+- [*The Sea Wolf* (1997) {#the-sea-wolf-1997}](#the-sea-wolf-1997-the-sea-wolf-1997)
+- [*The Sea Wolf* (2009) {#the-sea-wolf-2009}](#the-sea-wolf-2009-the-sea-wolf-2009)
+- [*The Sea Wolves* (1980) {#the-sea-wolves-1980}](#the-sea-wolves-1980-the-sea-wolves-1980)
+- [*The Seas Shall Not Have Them* (1954) {#the-seas-shall-not-have-them-1954}](#the-seas-shall-not-have-them-1954-the-seas-shall-not-have-them-1954)
+- [*The Spy in Black* (1939) {#the-spy-in-black-1939}](#the-spy-in-black-1939-the-spy-in-black-1939)
+- [*The Wreck of the Mary Deare* (1959) {#the-wreck-of-the-mary-deare-1959}](#the-wreck-of-the-mary-deare-1959-the-wreck-of-the-mary-deare-1959)
+- [*U-boat Prisoner* (1944) {#u-boat-prisoner-1944}](#u-boat-prisoner-1944-u-boat-prisoner-1944)
+- [*Western Approaches* (1944) {#western-approaches-1944}](#western-approaches-1944-western-approaches-1944)
+- [*You’re in the Navy Now* (1951) {#you-re-in-the-navy-now-1951}](#youre-in-the-navy-now-1951-you-re-in-the-navy-now-1951)
+
+
+
 
 # [*Atlantic Convoy*](https://www.imdb.com/find/?q=Atlantic%20Convoy%201942) (1942) {#atlantic-convoy-1942}
 **Release Date:** September 3, 1942 (USA)  
