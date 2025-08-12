@@ -48,7 +48,6 @@
 1. [20,000 Leagues Under the Sea (1954)](#leagues-under-the-sea-1954)
 1. [Two Years Before the Mast (1946)](#two-years-before-the-mast-1946)
 1. [Voyage of the Damned (1976)](#voyage-of-the-damned-1976)
-# Table of Contents {#table-of-contents .TOC-Heading .unnumbered}
 1. [Atlantic Convoy (1942)](#atlantic-convoy-1942)
 1. [Battle of the Coral Sea (1959)](#battle-of-the-coral-sea-1959)
 1. [Battle Stations (1956)](#battle-stations-1956)
