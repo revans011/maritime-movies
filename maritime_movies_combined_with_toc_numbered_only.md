@@ -1,3 +1,5 @@
+# Maritime Movies
+
 # Table of Contents
 1. [Tyrant of the Sea (1950)](#tyrant-of-the-sea-1950)
 1. [Sink the Bismarck! (1960)](#sink-the-bismarck-1960)
@@ -119,7 +121,7 @@
 1. [*Western Approaches* (1944)](#western-approaches-1944-western-approaches-1944)
 1. [*You’re in the Navy Now* (1951)](#youre-in-the-navy-now-1951-you-re-in-the-navy-now-1951)
 
-# Maritime Movies
+
 
 # *Above Us the Waves* (1955)
 [Watch on YouTube](https://youtu.be/OibSKE2DjuM?si=UEd41lrGwZyxLm8m)
