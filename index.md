@@ -7,6 +7,6 @@ layout: default
 
 This site contains the following document:
 
-- [Maritime Movie Catalog](docs/maritime_movies.md)
+- [The Maritime Movie Catalog](docs/maritime_movies.md)
 - [A list of contributors](/docs/contributors.md)
 - [A to-do list for the catalog](/docs/to-do_list.md)
