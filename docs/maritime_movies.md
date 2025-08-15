@@ -120,7 +120,7 @@
 1. [*U-boat Prisoner* (1944)](#u-boat-prisoner-1944)
 1. [*Voyage of the Damned* (1976)](#voyage-of-the-damned-1976)
 1. [*Western Approaches* (1944)](#western-approaches-1944)
-1. [*You’re in the Navy Now* (1951)](#you-re-in-the-navy-now-1951)
+1. [*You’re in the Navy Now* (1951)](#youre-in-the-navy-now-1951)
 
 
 
