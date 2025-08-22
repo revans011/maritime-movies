@@ -7,6 +7,7 @@ Jackson, Pat. 1999. A Retake Please! : Night Mail to Western Approaches.
 Liverpool: Royal Naval Museum Publications and Liverpool University Press. 
 [Amazon link](https://www.amazon.com/Retake-Please-Filming-Western-Approaches/dp/0853239533)
 
+---
 
 **All hands on deck : a modern-day high seas adventure to the far side of the world** by Will Sofrin
 
@@ -15,6 +16,7 @@ Will Sofrin help deliver the ship the was used in _Master and Commander: The Far
 Sofrin, Will. 2023. All Hands on Deck : A Modern-Day High Seas Adventure to the Far Side of the World. New York, NY: Abrams Press
 [Amazon link](https://www.amazon.com/s?k=will+sofrin&i=stripbooks&crid=35XTO1STS2TTH&sprefix=will+sofrin%2Cstripbooks%2C159&ref=nb_sb_noss_1)
 
+---
 
 **The Jaws Log: Expanded Edition** by Carl Gottlieb
 
