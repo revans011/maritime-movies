@@ -131,7 +131,6 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. Juggernaut (1974)  
 1. K-19: The Widowmaker (2002)  
 1. Life of Pi (2012)  
-1. Lifeboat (1944)  
 1. Long John Silver (1954)  
 1. Long John Silver’s Return to Treasure Island (1954)  
 1. Lost Island (2018)  
