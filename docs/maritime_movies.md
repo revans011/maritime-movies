@@ -1,6 +1,6 @@
 # Maritime Movies
 
-Some of the entries are not finished and have only brief entries. I keep a JSON masterfile that I update, and use that to update this file. However, the factual information should mostly be correct. Don't necessarily trust the "maritime connection" and "reflection" parts, becuase I used AI to put in placeholders until I can get to them. 
+Some of the entries are not finished and have only brief entries. I keep a JSON masterfile that I update, and use that to update this file, so there is some lag time. However, the factual information should mostly be correct. Don't necessarily trust the "maritime connection" and "reflection" parts, becuase I used AI to put in placeholders until I can get to them. 
 
 # Table of Contents
 
