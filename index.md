@@ -1,7 +1,4 @@
----
-title: Home
-layout: default
----
+
 
 # Welcome to Maritime Movies
 
@@ -14,3 +11,5 @@ This site contains the following document:
 - [Contributors](/docs/contributors.md)
 - [A to-do list for the catalog](/docs/to-do_list.md)
 - [Caveats](/docs/caveats.md)
+
+Email me with comments, broken links, etc. RICHARDEVA.23@SUNYMARITIME.EDU
