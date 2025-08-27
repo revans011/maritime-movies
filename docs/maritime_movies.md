@@ -209,9 +209,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. U-boat Prisoner (1944)  
 1. USS Indianapolis: Men of Courage (2016)  
 1. Voyage to the Bottom of the Sea (1961)  
-1. Western Approaches (1944)  
-1. Wind (1992)  
-1. You’re in the Navy Now (1951)   
+1. Wind (1992)    
 
 # *Above Us the Waves* (1955)
 [Watch on YouTube](https://youtu.be/OibSKE2DjuM?si=UEd41lrGwZyxLm8m)
