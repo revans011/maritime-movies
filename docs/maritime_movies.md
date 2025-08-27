@@ -108,7 +108,6 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. Battle Stations (1956)  
 1. Below (2002)  
 1. Black Sea (2014)  
-1. Captain Phillips (2013)  
 1. Captain Ron (1992)  
 1. China Seas (1935)  
 1. Close Quarters (1943)  
