@@ -4,7 +4,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 
 # Table of Contents
 
-1. [Table of Contents](#table-of-contents)
+
 1. [Movies I have found but not yet entered into the database](#movies-i-have-found-but-not-yet-entered-into-the-database)
 1. [*Above Us the Waves* (1955)](#above-us-the-waves-1955)
 1. [*Action in the North Atlantic* (1943)](#action-in-the-north-atlantic-1943)
