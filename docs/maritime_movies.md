@@ -92,6 +92,8 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 
 # Movies I have found but not yet entered into the database
 
+(Some films may be duplicates. I'm still in the checking.)
+
 1. 1492: Conquest of Paradise (1992)  
 1. 20,000 Leagues Under the Sea (TV Movie) (1997)  
 1. Adrift (2018)  
