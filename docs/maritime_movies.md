@@ -135,8 +135,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. Long John Silver (1954)  
 1. Long John Silver’s Return to Treasure Island (1954)  
 1. Lost Island (2018)  
-1. Lusitania: Murder on the Atlantic (TV Movie) (1998)  
-1. Master and Commander: The Far Side of the World (2003)  
+1. Lusitania: Murder on the Atlantic (TV Movie) (1998)   
 1. Middle Passage (Le Passage du Milieu) (2001)  
 1. Midway (1976)  
 1. Mission of the Shark: The Saga of the USS Indianapolis (TV Movie) (1991)  
@@ -979,7 +978,7 @@ British Navy during the Napoleonic era.
 
 **Reflection:**
 
-The best part of Patrick O'Brian's books and the movie is Captain Jack Aubrey's relationship with Dr. Maturin. While conflict, as in *Jaws* (1975), seems to be the cornerstone of tension that drives plots, I like plots with characters that generally get along. A good example would be the original *Star Trek* (1966) series or even *The Cruel Sea* (1953) in which Lt. Bennett and Captain Ericson are a team throughout the movie. The seagoing cinematography in this film is particularly strong, and it is hard to distinguish between shots filmed on the real ship *Rose*, the models, the stages, and CGI. For comparison, watch *The Sea Wolf* (1951) and *Moby Dick* (2011), the former being among the worst and the latter the best showing real ships sailed on the real ocean. Here is a video on the [*filming of *Master and Commander: The Far Side of the World** (2003)](file:///-%09Master%20and%20Commander/%20The%20Far%20Side%20of%20the%20World%20(2003)) where the production crew explains the challenges of filming at sea, the building of the miniatures (which were huge) and the cast's training program.
+The best part of Patrick O'Brian's books and the movie is Captain Jack Aubrey's relationship with Dr. Maturin. While conflict, as in *Jaws* (1975), seems to be the cornerstone of tension that drives plots, I like plots with characters that generally get along. A good example would be the original *Star Trek* (1966) series or even *The Cruel Sea* (1953) in which Lt. Bennett and Captain Ericson are a team throughout the movie. The seagoing cinematography in this film is particularly strong, and it is hard to distinguish between shots filmed on the real ship *Rose*, the models, the stages, and CGI. For comparison, watch *The Sea Wolf* (1951) and *Moby Dick* (2011), the former being among the worst and the latter the best showing real ships sailed on the real ocean. Here is a video on the [*filming of *Master and Commander: The Far Side of the World** (2003)]([file:///-%09Master%20and%20Commander/%20The%20Far%20Side%20of%20the%20World%20(2003)](https://youtu.be/_yLl05D0evQ?si=2b9BZM0Ev2MS-4Vj) where the production crew explains the challenges of filming at sea, the building of the miniatures (which were huge) and the cast's training program.
 
 # *Middle Passage* (*Le Passage du Milieu*) (2001, U.S. Release)
 
