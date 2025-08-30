@@ -2792,9 +2792,10 @@ WWII convoy survival in the Atlantic.
 Inexperienced officers are given command of a new experimental steam-powered ship during WWII. The condenser was experimental, not the steam.
 
 **Reflection:**
-This movie pairs with The Wackiest Ship in the Army. In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize.
+This movie pairs with _The Wackiest Ship in the Army_ (1960). In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize.
 
 # *The Wackiest Ship in the Army* (1960)  
+
 [YouTube trailer](https://youtu.be/lZ1GvbjpV-s?si=XeyFv0UsvfQtGAJW)
 
 **Release Date:** December 1960 (USA)  
