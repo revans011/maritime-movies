@@ -2691,6 +2691,9 @@ Also called U-boat 29.
 ---
 
 # [*The Wreck of the Mary Deare*](https://www.imdb.com/find/?q=The%20Wreck%20of%20the%20Mary%20Deare%201959) (1959)
+
+[YouTube trailer](https://youtu.be/o4G2sTvByKE?si=9xcNl9znuiQYXtPDl)
+
 **Release Date:** November 11, 1959 (USA)  
 **Studio:** Metro-Goldwyn-Mayer  
 **Director:** [Michael Anderson](https://www.imdb.com/find/?q=Michael%20Anderson)  
@@ -2709,7 +2712,7 @@ Also called U-boat 29.
 Salvage drama aboard an abandoned ship.
 
 **Reflection:**  
-
+Read the book, just read the book. On the upside they filmed underwater with very early scuba gear, which may have been easier than filming ships in storms but probably no less dangerous. Sands’ (Heston) partner, Mike, is played by Ben Wright, who played the Austrian Nazi (Herr Zeller) in The Sound of Music. He also had a small role in The Sand Pebbles. Also, a young Richard Harris plays the bad guy, and it is fun to contrast restrained but relaxed acting with Cooper’s notoriously restrained but tense acting.
 
 
 ---
@@ -2766,6 +2769,9 @@ WWII convoy survival in the Atlantic.
 ---
 
 # [*You’re in the Navy Now*](https://www.imdb.com/find/?q=You%E2%80%99re%20in%20the%20Navy%20Now%201951) (1951)
+
+[Watch on YouTube:](https://youtu.be/oKuDCsPtyPw?si=LV-7VEdcVaYmD3uk)
+
 **Release Date:** March 25, 1951 (USA)  
 **Studio:** 20th Century Fox  
 **Director:** [Henry Hathaway](https://www.imdb.com/find/?q=Henry%20Hathaway)  
@@ -2781,6 +2787,7 @@ WWII convoy survival in the Atlantic.
 - Composed by [Roy Webb](https://en.wikipedia.org/wiki/Roy_Webb).
 
 **Maritime Connections:**  
-Naval comedy based on a true story.
+Inexperienced officers are given command of a new experimental steam-powered ship during WWII. The condenser was experimental, not the steam.
 
 **Reflection:**
+This movie pairs with The Wackiest Ship in the Army. In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize.
