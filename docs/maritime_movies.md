@@ -79,7 +79,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*The Seas Shall Not Have Them* (1954)](#the-seas-shall-not-have-them-1954)  
 1. [*The Silent World* (1956)](#the-silent-world-1956)  
 1. [*The Spy in Black* (1939)](#the-spy-in-black-1939)
-1. [*The Wackiest Ship in the Army (1960)*](the-wackiest-ship-in-the-army-1960)
+1. [*The Wackiest Ship in the Army (1960)*](#the-wackiest-ship-in-the-army-1960)
 1. [*Submarine Raider* (1942)](#submarine-raider-1942)  
 1. [*Task Force* (1949)](#task-force-1949)  
 1. [*Treasure Island* (1950)](#treasure-island-1950)  
