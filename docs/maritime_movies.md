@@ -68,7 +68,8 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Secrets of the Dead: Slave Ship Mutiny* (2010)](#secrets-of-the-dead-slave-ship-mutiny-2010)  
 1. [*Sink the Bismarck!* (1960)](#sink-the-bismarck-1960)  
 1. [*Son of Fury: The Story of Benjamin Blake* (1942)](#son-of-fury-the-story-of-benjamin-blake-1942)  
-1. [*Souls at Sea* (1937)](#souls-at-sea-1937)  
+1. [*Souls at Sea* (1937)](#souls-at-sea-1937)
+1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966)
 1. [*The Cruel Sea* (1953)](#the-cruel-sea-1953)  
 1. [*The Sea Wolf* (1941)](#the-sea-wolf-1941)  
 1. [*The Sea Wolf* (1993)](#the-sea-wolf-1993)  
@@ -77,7 +78,8 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*The Sea Wolves* (1980)](#the-sea-wolves-1980)  
 1. [*The Seas Shall Not Have Them* (1954)](#the-seas-shall-not-have-them-1954)  
 1. [*The Silent World* (1956)](#the-silent-world-1956)  
-1. [*The Spy in Black* (1939)](#the-spy-in-black-1939)  
+1. [*The Spy in Black* (1939)](#the-spy-in-black-1939)
+1. [*The Wackiest Ship in the Army (1960)*](the-wackiest-ship-in-the-army-1960)
 1. [*Submarine Raider* (1942)](#submarine-raider-1942)  
 1. [*Task Force* (1949)](#task-force-1949)  
 1. [*Treasure Island* (1950)](#treasure-island-1950)  
@@ -2791,3 +2793,71 @@ Inexperienced officers are given command of a new experimental steam-powered shi
 
 **Reflection:**
 This movie pairs with The Wackiest Ship in the Army. In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize.
+
+# *The Wackiest Ship in the Army* (1960)  
+[Scene Reference](https://youtu.be/lZ1GvbjpV-s?si=XeyFv0UsvfQtGAJW)
+
+**Release Date:** December 1960 (USA)  
+
+**Studio:** Columbia Pictures  
+
+**Director:** Richard Murphy  
+
+**Lead Actors/Actresses:**  
+
+• Jack Lemmon as Lt. Rip Crandall  
+• Ricky Nelson as Ens. Tommy Hanson  
+• John Lund as Commander Vandewater  
+• Mike Kellin as Chief Mate Jack  
+
+**Awards:**  
+
+• None  
+
+**Music:**  
+
+• Score composed by George Duning  
+
+**Maritime Connections:**  
+
+Dramedy about a yachtsman turned WWII naval officer commanding a decrepit wooden sailing schooner refitted for military duty during WWII.  
+
+**Reflection:**  
+
+This is possibly the worst title I've seen for a decent movie. It makes the movie sound silly, when in fact Jack Lemmon gives a much more grounded performance than he did in *Mr. Roberts*, where he was silly. This movie was apparently very loosely based on a real US Navy ship, *Echo*, a scow of New Zealand registry built in 1892, that was transferred to the US Navy under Reverse Lend Lease from New Zealand. The real ship was used for cargo. In the movie, it is used to transport an Australian Coastwatcher to his station. Ricky Nelson is so-so at best, but he sings *Miss New Orleans* well.  
+
+---
+
+# *The Sand Pebbles* (1966)  
+[Scene Reference](https://youtu.be/ualotQdtjm4?si=sIuRJvAKRTl1BeK0)
+
+**Release Date:** December 20, 1966 (USA)  
+
+**Studio:** 20th Century Fox  
+
+**Director:** Robert Wise  
+
+**Lead Actors/Actresses:**  
+
+• Steve McQueen as Jake Holman  
+• Richard Attenborough as Frenchy Burgoyne  
+• Candice Bergen as Shirley Eckert  
+• Mako as Po-han  
+
+**Awards:**  
+
+• Nominated for 8 Academy Awards including Best Actor (Steve McQueen), Best Supporting Actor (Mako), and Best Picture  
+
+**Music:**  
+
+• Composed by Jerry Goldsmith  
+
+**Maritime Connections:**  
+
+Set in 1926 China, the film follows the crew of a U.S. Navy gunboat *San Pablo* (get it? *San Pablo*, *Sand Pebbles*) patrolling the Yangtze River, reflecting the tensions of imperialism and cultural clashes.  
+
+**Reflection:**  
+
+Watch this movie together with *The Yangtse Incident: The Story of HMS Amethyst* (1957). If you can filter the racial biases, these two movies give some idea of what it must have been like for navies during the Chinese Civil War. For *The Sand Pebbles*, there is tension from the beginning, like Steve McQueen has a blister that won't heal. The *San Pablo* itself seems right on outside but all wrong on the inside, with “coolies” doing most of the grunt work on the ship. It makes me think there are two kinds of maritime movies: ones that at least in part try to describe the feeling and rhythm of life on the water (*Western Approaches* is that kind of movie). But *Jaws* is not that kind of movie, nor is *The Sand Pebbles*. That does not make them lesser maritime movies. This is Candice Bergen’s second movie.  
+
+---
