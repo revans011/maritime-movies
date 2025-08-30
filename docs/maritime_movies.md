@@ -2795,7 +2795,7 @@ Inexperienced officers are given command of a new experimental steam-powered shi
 This movie pairs with The Wackiest Ship in the Army. In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize.
 
 # *The Wackiest Ship in the Army* (1960)  
-[Scene Reference](https://youtu.be/lZ1GvbjpV-s?si=XeyFv0UsvfQtGAJW)
+[YouTube trailer](https://youtu.be/lZ1GvbjpV-s?si=XeyFv0UsvfQtGAJW)
 
 **Release Date:** December 1960 (USA)  
 
