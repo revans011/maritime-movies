@@ -40,8 +40,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Crash Dive* (1943)](#crash-dive-1943)  
 1. [*Crash Dive* (1943)](#crash-dive-1943)  
 1. [*Crimson Tide* (1995)](#crimson-tide-1995)  
-1. [*The Cruel Sea* (1953)](#the-cruel-sea-1953)  
-1. [*The Cruel Sea* (1953)](#the-cruel-sea-1953)  
+1. [*The Cruel Sea* (1953)](#the-cruel-sea-1953)   
 1. [*Cutthroat Island* (1995)](#cutthroat-island-1995)  
 1. [*Damn the Defiant* (1962)](#damn-the-defiant-1962)  
 1. [*Das Boot* (1981)](#das-boot-1981)   
@@ -65,8 +64,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Ghosts of Amistad* (2014)](#ghosts-of-amistad-2014)  
 1. [*Gods of the Deep* (2024)](#gods-of-the-deep-2024)  
 1. [*The Guardian* (2006)](#the-guardian-2006)  
-1. [*Harbinger Down* (2015)](#harbinger-down-2015)  
-1. [*Harbinger Down* (2015)](#harbinger-down-2015-1)  
+1. [*Harbinger Down* (2015)](#harbinger-down-2015)   
 1. [*Hell and High Water* (1954)](#hell-and-high-water-1954)  
 1. [*Hell Below Zero* (1954)](#hell-below-zero-1954)  
 1. [*The Hunt for Red October* (1990)](#the-hunt-for-red-october-1990)  
@@ -96,14 +94,12 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Moby Dick* (2010)](#moby-dick-2010)  
 1. [*Moby Dick* (2011)](#moby-dick-2011)  
 1. [*Morituri* (1965)](#morituri-1965)  
-1. [*Morituri* (1965)](#morituri-1965-1)  
 1. [*Morning Departure* (1950)](#morning-departure-1950)  
 1. [*Mr. Roberts* (1955)](#mr-roberts-1955)  
 1. [*Mutiny* (1952)](#mutiny-1952)  
 1. [*Mutiny on the Bounty* (1935)](#mutiny-on-the-bounty-1935)  
 1. [*Mutiny on the Bounty* (1962)](#mutiny-on-the-bounty-1962)  
 1. [*The Neptune Factor* (1973)](#the-neptune-factor-1973)  
-1. [*The Neptune Factor* (1973)](#the-neptune-factor-1973-1)  
 1. [*North Sea* (1938)](#north-sea-1938)  
 1. [*The Old Man and the Sea* (1958)](#the-old-man-and-the-sea-1958)  
 1. [*On the Beach* (1959)](#on-the-beach-1959)  
@@ -115,14 +111,11 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Phantom* (2013)](#phantom-2013)  
 1. [*Piper (Pixar short)* (2016)](#piper-pixar-short-2016)  
 1. [*The Pirate of the Seven Seas* (1953)](#the-pirate-of-the-seven-seas-1953)  
-1. [*The Pirate of the Seven Seas* (1953)](#the-pirate-of-the-seven-seas-1953-1)  
 1. [*Pirates of the Caribbean: The Curse of the Black Pearl* (2003)](#pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003)  
 1. [*Plymouth Adventure* (1952)](#plymouth-adventure-1952)  
 1. [*Poseidon* (2006)](#poseidon-2006)  
 1. [*The Poseidon Adventure* (1972)](#the-poseidon-adventure-1972)  
-1. [*The Poseidon Adventure* (1972)](#the-poseidon-adventure-1972-1)  
 1. [*The Poseidon Adventure* (2005)](#the-poseidon-adventure-2005)  
-1. [*The Poseidon Adventure* (2005)](#the-poseidon-adventure-2005-1)  
 1. [*PT 109* (1963)](#pt-109-1963)  
 1. [*Pursuit of the Graf Spee* (1956)](#pursuit-of-the-graf-spee-1956)  
 1. [*Rendezvous with Death* (1950)](#rendezvous-with-death-1950)  
@@ -130,26 +123,17 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Riddle of the Sands* (1979)](#riddle-of-the-sands-1979)  
 1. [*Robinson Crusoe* (1954)](#robinson-crusoe-1954)  
 1. [*Romance on the High Seas* (1948)](#romance-on-the-high-seas-1948)  
-1. [*Romance on the High Seas* (1948)](#romance-on-the-high-seas-1948-1)  
 1. [*Run Silent, Run Deep* (1958)](#run-silent-run-deep-1958)  
-1. [*Run Silent, Run Deep* (1958)](#run-silent-run-deep-1958-1)  
 1. [*Sailor of the King* (1953)](#sailor-of-the-king-1953)  
-1. [*Sailor of the King* (1953)](#sailor-of-the-king-1953-1)  
-1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966)  
-1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966-1)  
+1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966)   
 1. [*The Savings of Bill Blewett* (1936)](#the-savings-of-bill-blewett-1936)  
 1. [*The Sea Raiders of Tortuga (Pirates of Tortuga)* (1961)](#the-sea-raiders-of-tortuga-pirates-of-tortuga-1961)  
 1. [*The Sea Wolf* (1941)](#the-sea-wolf-1941)  
 1. [*The Sea Wolf* (1993)](#the-sea-wolf-1993)  
-1. [*The Sea Wolf* (1993)](#the-sea-wolf-1993-1)  
 1. [*The Sea Wolf* (1997)](#the-sea-wolf-1997)  
-1. [*The Sea Wolf* (1997)](#the-sea-wolf-1997-1)  
-1. [*The Sea Wolf* (2009)](#the-sea-wolf-2009)  
-1. [*The Sea Wolf* (2009)](#the-sea-wolf-2009-1)  
+1. [*The Sea Wolf* (2009)](#the-sea-wolf-2009)   
 1. [*The Sea Wolves* (1980)](#the-sea-wolves-1980)  
-1. [*The Sea Wolves* (1980)](#the-sea-wolves-1980-1)  
 1. [*The Seas Shall Not Have Them* (1954)](#the-seas-shall-not-have-them-1954)  
-1. [*The Seas Shall Not Have Them* (1954)](#the-seas-shall-not-have-them-1954-1)  
 1. [*The Secret Sharer* (2014)](#the-secret-sharer-2014)  
 1. [*Secrets of the Dead: Slave Ship Mutiny* (2010)](#secrets-of-the-dead-slave-ship-mutiny-2010)  
 1. [*The Seekers* (1954)](#the-seekers-1954)  
@@ -158,15 +142,12 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*The Silent World* (1956)](#the-silent-world-1956)  
 1. [*Sink the Bismarck!* (1960)](#sink-the-bismarck-1960)  
 1. [*Son of Fury: The Story of Benjamin Blake* (1942)](#son-of-fury-the-story-of-benjamin-blake-1942)  
-1. [*Son of Fury: The Story of Benjamin Blake* (1942)](#son-of-fury-the-story-of-benjamin-blake-1942-1)  
 1. [*Souls at Sea* (1937)](#souls-at-sea-1937)  
 1. [*Souls at Sea* (1937)](#souls-at-sea-1937-1)  
 1. [*Speed 2: Cruise Control* (1997)](#speed-2-cruise-control-1997)  
 1. [*The Spy in Black* (1939)](#the-spy-in-black-1939)  
-1. [*The Spy in Black* (1939)](#the-spy-in-black-1939-1)  
 1. [*The Spy Who Loved Me* (1977)](#the-spy-who-loved-me-1977)  
 1. [*Submarine Raider* (1942)](#submarine-raider-1942)  
-1. [*Submarine Raider* (1942)](#submarine-raider-1942-1)  
 1. [*Submarine X-1* (1968)](#submarine-x-1-1968)  
 1. [*Swiss Family Robinson* (1960)](#swiss-family-robinson-1960)  
 1. [*Task Force* (1949)](#task-force-1949)  
@@ -177,8 +158,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Two Years Before the Mast* (1946)](#two-years-before-the-mast-1946)  
 1. [*Tyrant of the Sea* (1950)](#tyrant-of-the-sea-1950)  
 1. [*U-571* (2000)](#u-571-2000)  
-1. [*U-boat Prisoner* (1944)](#u-boat-prisoner-1944)  
-1. [*U-boat Prisoner* (1944)](#u-boat-prisoner-1944-1)  
+1. [*U-boat Prisoner* (1944)](#u-boat-prisoner-1944)   
 1. [*USS Indianapolis: Men of Courage* (2016)](#uss-indianapolis-men-of-courage-2016)  
 1. [*The Valiant* (1962)](#the-valiant-1962)  
 1. [*The Voyage of Sinbad (The Golden Voyage of Sinbad)* (1973)](#the-voyage-of-sinbad-the-golden-voyage-of-sinbad-1973)  
@@ -188,7 +168,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Western Approaches* (1944)](#western-approaches-1944)  
 1. [*Wind* (1992)](#wind-1992)  
 1. [*The Wreck of the Mary Deare* (1959)](#the-wreck-of-the-mary-deare-1959)  
-1. [*The Wreck of the Mary Deare* (1959)](#the-wreck-of-the-mary-deare-1959-1)  
+
 1. [*Yangtze Incident: The Story of HMS Amethyst* (1957)](#yangtze-incident-the-story-of-hms-amethyst-1957)  
 1. [*You're in the Navy Now* (1951)](#youre-in-the-navy-now-1951-1)  
 1. [*You’re in the Navy Now* (1951)](#youre-in-the-navy-now-1951)  
@@ -2231,6 +2211,7 @@ WWII sabotage on a German merchant ship.
 **Reflection:**  
 
 
+
 ---
 
 # [*Romance on the High Seas*](https://www.imdb.com/find/?q=Romance%20on%20the%20High%20Seas%201948) (1948)
@@ -2935,31 +2916,6 @@ Boring, but the real Amethyst was used. Also an important story. Used a fake Chi
 
 ---
 
-# *Morituri* (1965)  
-[More Info](https://en.wikipedia.org/wiki/Morituri_(1965_film))
-
-**Release Date:** 1965  
-**Studio:** 20th Century Fox  
-**Director:** Bernhard Wicki  
-
-**Lead Actors/Actresses:**  
-• Marlon Brando as Robert Crain
-• Yul Brynner as Captain Muller
-• Janet Margolin as Esther
-
-**Awards:**  
-• Nominated for 2 Academy Awards
-
-**Music:**  
-• Score composed by Jerry Goldsmith
-
-**Maritime Connections:**  
-Spy thriller set aboard a German blockade runner during WWII.
-
-**Reflection:**  
-A taut espionage maritime thriller with Brando undercover on a Nazi ship.
-
----
 
 # *A Twist of Sand* (1968)  
 [More Info](https://en.wikipedia.org/wiki/A_Twist_of_Sand)
@@ -3037,30 +2993,6 @@ Set in 1926 China, the film follows the crew of a U.S. Navy gunboat *San Pablo* 
 **Reflection:**  
 Watch this movie together with *The Yangtse Incident: The Story of HMS Amethyst* (1957). If you can filter the racial biases, these two movies give some idea of what it must have been like for navies during the Chinese Civil War. For *The Sand Pebbles*, there is tension from the beginning, like Steve McQueen has a blister that won't heal. The *San Pablo* itself seems right on outside but all wrong on the inside, with “coolies” doing most of the grunt work on the ship. It makes me think there are two kinds of maritime movies: ones that at least in part try to describe the feeling and rhythm of life on the water (*Western Approaches* is that kind of movie). But *Jaws* is not that kind of movie, nor is *The Sand Pebbles*. That does not make them lesser maritime movies. This is Candice Bergen’s second movie.
 
----
-
-# *The Wreck of the Mary Deare* (1959)  
-**Release Date:** November 5, 1959 (USA)  
-**Studio:** Metro-Goldwyn-Mayer (MGM)  
-**Director:** Michael Anderson  
-
-**Lead Actors/Actresses:**  
-• Gary Cooper as Gideon Patch
-• Charlton Heston as John Sands
-• Michael Redgrave as Sir Wilfrid Lucas
-• Richard Harris as Higgins
-
-**Awards:**  
-• None
-
-**Music:**  
-• Score composed by George Duning
-
-**Maritime Connections:**  
-A suspense drama about a salvage crew discovering a seemingly abandoned freighter in the English Channel, then uncovering insurance fraud and a set‑up of the first mate.
-
-**Reflection:**  
-Read the book, just read the book. On the upside they filmed underwater with very early scuba gear, which may have been easier than filming ships in storms but probably no less dangerous. Sands’ (Heston) partner, Mike, is played by Ben Wright, who played the Austrian Nazi (Herr Zeller) in *The Sound of Music*. He also had a small role in *The Sand Pebbles*. Also, a young Richard Harris plays the bad guy, and it is fun to contrast restrained but relaxed acting with Cooper’s notoriously restrained but tense acting.
 
 ---
 
@@ -3646,50 +3578,6 @@ TBD
 
 # *Ghost Ship* (2002)  
 **Release Date:** 2002  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *Harbinger Down* (2015)  
-**Release Date:** 2015  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *In the Heart of the Sea* (2015)  
-**Release Date:** 2015  
 **Studio:** TBD  
 **Director:** TBD  
 
@@ -4348,96 +4236,9 @@ TBD
 
 ---
 
-# *Romance on the High Seas* (1948)  
-**Release Date:** 1948  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *Run Silent, Run Deep* (1958)  
-**Release Date:** 1958  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *Sailor of the King* (1953)  
-**Release Date:** 1953  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
 
 # *Seven Waves Away (Abandon Ship!)* (1957)  
 **Release Date:** 1957  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *Son of Fury: The Story of Benjamin Blake* (1942)  
-**Release Date:** 1942  
 **Studio:** TBD  
 **Director:** TBD  
 
@@ -4502,27 +4303,6 @@ TBD
 
 ---
 
-# *Submarine Raider* (1942)  
-**Release Date:** 1942  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
 
 # *Submarine X-1* (1968)  
 **Release Date:** 1968  
@@ -4810,28 +4590,6 @@ TBD
 
 ---
 
-# *The Neptune Factor* (1973)  
-**Release Date:** 1973  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
 # *The Old Man and the Sea* (1958)  
 **Release Date:** 1958  
 **Studio:** TBD  
@@ -4876,71 +4634,6 @@ TBD
 
 ---
 
-# *The Pirate of the Seven Seas* (1953)  
-**Release Date:** 1953  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Poseidon Adventure* (1972)  
-**Release Date:** 1972  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Poseidon Adventure* (2005)  
-**Release Date:** 2005  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
 
 # *The Savings of Bill Blewett* (1936)  
 **Release Date:** 1936  
@@ -4986,115 +4679,6 @@ TBD
 
 ---
 
-# *The Sea Wolf* (1993)  
-**Release Date:** 1993  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Sea Wolf* (1997)  
-**Release Date:** 1997  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Sea Wolf* (2009)  
-**Release Date:** 2009  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Sea Wolves* (1980)  
-**Release Date:** 1980  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Seas Shall Not Have Them* (1954)  
-**Release Date:** 1954  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
 
 # *The Secret Sharer* (2014)  
 **Release Date:** 2014  
@@ -5142,28 +4726,6 @@ TBD
 
 # *The Ship That Died of Shame* (1955)  
 **Release Date:** 1955  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *The Spy in Black* (1939)  
-**Release Date:** 1939  
 **Studio:** TBD  
 **Director:** TBD  
 
@@ -5274,28 +4836,6 @@ TBD
 
 # *U-571* (2000)  
 **Release Date:** 2000  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
-# *U-boat Prisoner* (1944)  
-**Release Date:** 1944  
 **Studio:** TBD  
 **Director:** TBD  
 
