@@ -2156,24 +2156,29 @@ WWII naval escape from Japanese forces.
 ---
 
 # [*Hell and High Water*](https://www.imdb.com/find/?q=Hell%20and%20High%20Water%201954) (1954)
-**Release Date:** March 3, 1954 (USA)  
-**Studio:** 20th Century Fox  
-**Director:** [Samuel Fuller](https://www.imdb.com/find/?q=Samuel%20Fuller)  
+[More Info](https://en.wikipedia.org/wiki/Hell_and_High_Water_(1954_film))
 
-**Lead Actors:**  
-- [Richard Widmark](https://www.imdb.com/find/?q=Richard%20Widmark)  
-- [Bella Darvi](https://www.imdb.com/find/?q=Bella%20Darvi)
+**Release Date:** 1954  
+**Studio:** 20th Century Fox  
+**Director:** Samuel Fuller  
+
+**Lead Actors/Actresses:**  
+• Richard Widmark as Capt. Adam Jones
+• Bella Darvi as Professor Denise Gerard
+• Victor Francen as Prof. Montel
+• Cameron Mitchell as Chief Carpenter
 
 **Awards:**  
-- None noted ([IMDb](https://www.imdb.com/find/?q=Hell%20and%20High%20Water%201954/awards/))
+• Academy Award nomination for Best Special Effects
 
 **Music:**  
-- Composed by [Alfred Newman](https://en.wikipedia.org/wiki/Alfred_Newman).
+• Score composed by Alfred Newman
 
 **Maritime Connections:**  
-Cold War submarine thriller.
+Cold War submarine thriller — civilians repurpose a Japanese WWII submarine to stop a potential atomic war.
 
 **Reflection:**  
+A sub movie with civilians aboard a repurposed Japanese WWII sub, trying to stop an atomic war. Incredibly misogynistic and racist.
 
 
 
@@ -2198,6 +2203,7 @@ Cold War submarine thriller.
 Adventure in Antarctic whaling waters.
 
 **Reflection:**  
+Whaling‑based maritime thriller with Alan Ladd. Excellent scenes of 20th century whaling.
 
 
 
@@ -2925,60 +2931,7 @@ Tells the story of the real HMS Amethyst, trapped on the Yangtze River during th
 **Reflection:**  
 Boring, but the real Amethyst was used. Also an important story. Used a fake Chinese person as the Chinese colonel. Didn’t explore the Chinese point of view — but why would it.
 
----
 
-# *Hell and High Water* (1954)  
-[More Info](https://en.wikipedia.org/wiki/Hell_and_High_Water_(1954_film))
-
-**Release Date:** 1954  
-**Studio:** 20th Century Fox  
-**Director:** Samuel Fuller  
-
-**Lead Actors/Actresses:**  
-• Richard Widmark as Capt. Adam Jones
-• Bella Darvi as Professor Denise Gerard
-• Victor Francen as Prof. Montel
-• Cameron Mitchell as Chief Carpenter
-
-**Awards:**  
-• Academy Award nomination for Best Special Effects
-
-**Music:**  
-• Score composed by Alfred Newman
-
-**Maritime Connections:**  
-Cold War submarine thriller — civilians repurpose a Japanese WWII submarine to stop a potential atomic war.
-
-**Reflection:**  
-A sub movie with civilians aboard a repurposed Japanese WWII sub, trying to stop an atomic war. Incredibly misogynistic and racist.
-
----
-
-
-
-# *Hell Below Zero* (1954)  
-[More Info](https://en.wikipedia.org/wiki/Hell_Below_Zero)
-
-**Release Date:** 1954  
-**Studio:** Columbia Pictures  
-**Director:** Mark Robson  
-
-**Lead Actors/Actresses:**  
-• Alan Ladd as Duncan Craig
-• Joan Tetzel as Judie Nordahl
-• Basil Sydney as Capt. Nordahl
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• Score composed by Clifton Parker
-
-**Maritime Connections:**  
-Adventure set against whaling expeditions in the Antarctic seas.
-
-**Reflection:**  
-Whaling‑based maritime thriller with Alan Ladd. Excellent scenes of 20th century whaling.
 
 ---
 
