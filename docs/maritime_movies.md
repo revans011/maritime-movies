@@ -97,7 +97,6 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 - [*The Decks Ran Red* (1958)](#the-decks-ran-red-1958)
 - [*Yangtze Incident: The Story of HMS Amethyst* (1957)](#yangtze-incident-the-story-of-hms-amethyst-1957)
 - [*Hell and High Water* (1954)](#hell-and-high-water-1954-1)
-- [*Crash Dive* (1943)](#crash-dive-1943-1)
 - [*Hell Below Zero* (1954)](#hell-below-zero-1954-1)
 - [*Morituri* (1965)](#morituri-1965-1)
 - [*A Twist of Sand* (1968)](#a-twist-of-sand-1968)
@@ -2973,32 +2972,7 @@ A sub movie with civilians aboard a repurposed Japanese WWII sub, trying to stop
 
 ---
 
-# *Crash Dive* (1943)  
-[More Info](https://en.wikipedia.org/wiki/Crash_Dive)
 
-**Release Date:** 1943  
-**Studio:** 20th Century Fox  
-**Director:** Archie Mayo  
-
-**Lead Actors/Actresses:**  
-• Tyrone Power as Lt. Ward Stewart
-• Anne Baxter as Jean Hewlett
-• Dana Andrews as Lt. Cmdr. Dewey Connors
-• James Gleason as Chief Mike 'Mac' McDonnell
-
-**Awards:**  
-• Academy Award for Best Special Effects
-
-**Music:**  
-• Score composed by David Raksin
-
-**Maritime Connections:**  
-Wartime submarine adventure mixing romance, espionage, and naval action.
-
-**Reflection:**  
-Classic wartime submarine drama starring Tyrone Power.
-
----
 
 # *Hell Below Zero* (1954)  
 [More Info](https://en.wikipedia.org/wiki/Hell_Below_Zero)
