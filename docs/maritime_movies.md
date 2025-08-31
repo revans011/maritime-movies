@@ -211,6 +211,128 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. Voyage to the Bottom of the Sea (1961)  
 1. Wind (1992)    
 
+
+1. [*On the Beach* (1959)](#on-the-beach-1959)
+1. [*The Decks Ran Red* (1958)](#the-decks-ran-red-1958)
+1. [*Yangtze Incident: The Story of HMS Amethyst* (1957)](#yangtze-incident-the-story-of-hms-amethyst-1957)
+1. [*Hell and High Water* (1954)](#hell-and-high-water-1954)
+1. [*Crash Dive* (1943)](#crash-dive-1943)
+1. [*Hell Below Zero* (1954)](#hell-below-zero-1954)
+1. [*Morituri* (1965)](#morituri-1965)
+1. [*A Twist of Sand* (1968)](#a-twist-of-sand-1968)
+1. [*Battleship* (2012)](#battleship-2012)
+1. [*The Wackiest Ship in the Army* (1960)](#the-wackiest-ship-in-the-army-1960)
+1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966)
+1. [*The Wreck of the Mary Deare* (1959)](#the-wreck-of-the-mary-deare-1959)
+1. [*You're in the Navy Now* (1951)](#youre-in-the-navy-now-1951)
+1. [*1492: Conquest of Paradise* (1992)](#1492-conquest-of-paradise-1992)
+1. [*20,000 Leagues Under the Sea (TV Movie)* (1997)](#20000-leagues-under-the-sea-tv-movie-1997)
+1. [*Adrift* (2018)](#adrift-2018)
+1. [*A Hijacking* (2013)](#a-hijacking-2013)
+1. [*Alaska Seas* (1954)](#alaska-seas-1954)
+1. [*All Hands on Deck* (1961)](#all-hands-on-deck-1961)
+1. [*All Is Lost* (2013)](#all-is-lost-2013)
+1. [*Atlantic Convoy* (1942)](#atlantic-convoy-1942)
+1. [*Away With The Sails (instructional film)* (1936)](#away-with-the-sails-instructional-film-1936)
+1. [*Battle of the Coral Sea* (1959)](#battle-of-the-coral-sea-1959)
+1. [*Battle Stations* (1956)](#battle-stations-1956)
+1. [*Below* (2002)](#below-2002)
+1. [*Black Sea* (2014)](#black-sea-2014)
+1. [*Captain Ron* (1992)](#captain-ron-1992)
+1. [*China Seas* (1935)](#china-seas-1935)
+1. [*Close Quarters* (1943)](#close-quarters-1943)
+1. [*Cutthroat Island* (1995)](#cutthroat-island-1995)
+1. [*Damn the Defiant* (1962)](#damn-the-defiant-1962)
+1. [*Das Boot* (1981)](#das-boot-1981)
+1. [*Dead Calm* (1989)](#dead-calm-1989)
+1. [*Death on the Nile* (2022)](#death-on-the-nile-2022)
+1. [*Deep Rising* (1998)](#deep-rising-1998)
+1. [*Deepwater Horizon* (2016)](#deepwater-horizon-2016)
+1. [*Destroyer* (1943)](#destroyer-1943)
+1. [*Drifters* (1929)](#drifters-1929)
+1. [*Flat Top* (1952)](#flat-top-1952)
+1. [*Ghost of the China Sea* (1958)](#ghost-of-the-china-sea-1958)
+1. [*Ghost Ship* (2002)](#ghost-ship-2002)
+1. [*Harbinger Down* (2015)](#harbinger-down-2015)
+1. [*In the Heart of the Sea* (2015)](#in-the-heart-of-the-sea-2015)
+1. [*Juggernaut* (1974)](#juggernaut-1974)
+1. [*K-19: The Widowmaker* (2002)](#k-19-the-widowmaker-2002)
+1. [*Life of Pi* (2012)](#life-of-pi-2012)
+1. [*Long John Silver* (1954)](#long-john-silver-1954)
+1. [*Long John Silver’s Return to Treasure Island* (1954)](#long-john-silvers-return-to-treasure-island-1954)
+1. [*Lost Island* (2018)](#lost-island-2018)
+1. [*Lusitania: Murder on the Atlantic (TV Movie)* (1998)](#lusitania-murder-on-the-atlantic-tv-movie-1998)
+1. [*Middle Passage (Le Passage du Milieu)* (2001)](#middle-passage-le-passage-du-milieu-2001)
+1. [*Midway* (1976)](#midway-1976)
+1. [*Mission of the Shark: The Saga of the USS Indianapolis (TV Movie)* (1991)](#mission-of-the-shark-the-saga-of-the-uss-indianapolis-tv-movie-1991)
+1. [*Mister Roberts* (1955)](#mister-roberts-1955)
+1. [*Morning Departure* (1950)](#morning-departure-1950)
+1. [*Mutiny* (1952)](#mutiny-1952)
+1. [*North Sea* (1938)](#north-sea-1938)
+1. [*On the Beach (TV Movie)* (2000)](#on-the-beach-tv-movie-2000)
+1. [*Operation Pacific* (1951)](#operation-pacific-1951)
+1. [*Operation Petticoat* (1959)](#operation-petticoat-1959)
+1. [*Pacific Destiny* (1956)](#pacific-destiny-1956)
+1. [*Phantom* (2013)](#phantom-2013)
+1. [*Piper (Pixar short)* (2016)](#piper-pixar-short-2016)
+1. [*Pirates of the Caribbean: The Curse of the Black Pearl* (2003)](#pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003)
+1. [*Plymouth Adventure* (1952)](#plymouth-adventure-1952)
+1. [*Poseidon* (2006)](#poseidon-2006)
+1. [*PT 109* (1963)](#pt-109-1963)
+1. [*Pursuit of the Graf Spee* (1956)](#pursuit-of-the-graf-spee-1956)
+1. [*Rendezvous with Death* (1950)](#rendezvous-with-death-1950)
+1. [*Return to Treasure Island* (1954)](#return-to-treasure-island-1954)
+1. [*Riddle of the Sands* (1979)](#riddle-of-the-sands-1979)
+1. [*Robinson Crusoe* (1954)](#robinson-crusoe-1954)
+1. [*Romance on the High Seas* (1948)](#romance-on-the-high-seas-1948)
+1. [*Run Silent, Run Deep* (1958)](#run-silent-run-deep-1958)
+1. [*Sailor of the King* (1953)](#sailor-of-the-king-1953)
+1. [*Seven Waves Away (Abandon Ship!)* (1957)](#seven-waves-away-abandon-ship-1957)
+1. [*Son of Fury: The Story of Benjamin Blake* (1942)](#son-of-fury-the-story-of-benjamin-blake-1942)
+1. [*Souls at Sea* (1937)](#souls-at-sea-1937)
+1. [*Speed 2: Cruise Control* (1997)](#speed-2-cruise-control-1997)
+1. [*Submarine Raider* (1942)](#submarine-raider-1942)
+1. [*Submarine X-1* (1968)](#submarine-x-1-1968)
+1. [*Swiss Family Robinson* (1960)](#swiss-family-robinson-1960)
+1. [*Task Force* (1949)](#task-force-1949)
+1. [*The African Queen* (1951)](#the-african-queen-1951)
+1. [*The Boat That Rocked (Pirate Radio)* (2009)](#the-boat-that-rocked-pirate-radio-2009)
+1. [*The Deep Six* (1958)](#the-deep-six-1958)
+1. [*The Enemy Below* (1957)](#the-enemy-below-1957)
+1. [*The Finest Hours* (2016)](#the-finest-hours-2016)
+1. [*The Fortunes of Captain Blood* (1950)](#the-fortunes-of-captain-blood-1950)
+1. [*The Frogmen* (1951)](#the-frogmen-1951)
+1. [*The Guardian* (2006)](#the-guardian-2006)
+1. [*The Life Aquatic with Steve Zissou* (2004)](#the-life-aquatic-with-steve-zissou-2004)
+1. [*The Mercy* (2017)](#the-mercy-2017)
+1. [*The Neptune Factor* (1973)](#the-neptune-factor-1973)
+1. [*The Old Man and the Sea* (1958)](#the-old-man-and-the-sea-1958)
+1. [*The Perfect Storm* (2000)](#the-perfect-storm-2000)
+1. [*The Pirate of the Seven Seas* (1953)](#the-pirate-of-the-seven-seas-1953)
+1. [*The Poseidon Adventure* (1972)](#the-poseidon-adventure-1972)
+1. [*The Poseidon Adventure* (2005)](#the-poseidon-adventure-2005)
+1. [*The Savings of Bill Blewett* (1936)](#the-savings-of-bill-blewett-1936)
+1. [*The Sea Raiders of Tortuga (Pirates of Tortuga)* (1961)](#the-sea-raiders-of-tortuga-pirates-of-tortuga-1961)
+1. [*The Sea Wolf* (1993)](#the-sea-wolf-1993)
+1. [*The Sea Wolf* (1997)](#the-sea-wolf-1997)
+1. [*The Sea Wolf* (2009)](#the-sea-wolf-2009)
+1. [*The Sea Wolves* (1980)](#the-sea-wolves-1980)
+1. [*The Seas Shall Not Have Them* (1954)](#the-seas-shall-not-have-them-1954)
+1. [*The Secret Sharer* (2014)](#the-secret-sharer-2014)
+1. [*The Seekers* (1954)](#the-seekers-1954)
+1. [*The Ship That Died of Shame* (1955)](#the-ship-that-died-of-shame-1955)
+1. [*The Spy in Black* (1939)](#the-spy-in-black-1939)
+1. [*The Spy Who Loved Me* (1977)](#the-spy-who-loved-me-1977)
+1. [*The Valiant* (1962)](#the-valiant-1962)
+1. [*The Voyage of Sinbad (The Golden Voyage of Sinbad)* (1973)](#the-voyage-of-sinbad-the-golden-voyage-of-sinbad-1973)
+1. [*Trawler Boy* (1956)](#trawler-boy-1956)
+1. [*U-571* (2000)](#u-571-2000)
+1. [*U-boat Prisoner* (1944)](#u-boat-prisoner-1944)
+1. [*USS Indianapolis: Men of Courage* (2016)](#uss-indianapolis-men-of-courage-2016)
+1. [*Voyage to the Bottom of the Sea* (1961)](#voyage-to-the-bottom-of-the-sea-1961)
+1. [*Wind* (1992)](#wind-1992)
+   
+
 # *Above Us the Waves* (1955)
 [Watch on YouTube](https://youtu.be/OibSKE2DjuM?si=UEd41lrGwZyxLm8m)
 
@@ -2862,3 +2984,2678 @@ Set in 1926 China, the film follows the crew of a U.S. Navy gunboat *San Pablo* 
 Watch this movie together with *The Yangtse Incident: The Story of HMS Amethyst* (1957). If you can filter the racial biases, these two movies give some idea of what it must have been like for navies during the Chinese Civil War. For *The Sand Pebbles*, there is tension from the beginning, like Steve McQueen has a blister that won't heal. The *San Pablo* itself seems right on outside but all wrong on the inside, with “coolies” doing most of the grunt work on the ship. It makes me think there are two kinds of maritime movies: ones that at least in part try to describe the feeling and rhythm of life on the water (*Western Approaches* is that kind of movie). But *Jaws* is not that kind of movie, nor is *The Sand Pebbles*. That does not make them lesser maritime movies. This is Candice Bergen’s second movie.  
 
 ---
+
+---
+
+# *On the Beach* (1959)  
+[More Info](https://en.wikipedia.org/wiki/On_the_Beach_(1959_film))
+
+**Release Date:** 1959  
+**Studio:** Metro-Goldwyn-Mayer (MGM)  
+**Director:** Stanley Kramer  
+
+**Lead Actors/Actresses:**  
+• Gregory Peck as Commander Dwight Towers
+• Ava Gardner as Moira Davidson
+• Fred Astaire as Julian Osborn
+• Anthony Perkins as Lt. Peter Holmes
+
+**Awards:**  
+• Nominated for 2 Academy Awards
+
+**Music:**  
+• Score composed by Ernest Gold
+
+**Maritime Connections:**  
+Submarine crew is central to the story — a U.S. submarine is sent to investigate radiation fallout in a post‑nuclear‑war setting.
+
+**Reflection:**  
+The submarine was needed. A grim meditation on nuclear war, blending maritime themes with existential dread.
+
+---
+
+# *The Decks Ran Red* (1958)  
+**Release Date:** 1958  
+**Studio:** Metro-Goldwyn-Mayer (MGM)  
+**Director:** Andrew L. Stone  
+
+**Lead Actors/Actresses:**  
+• James Mason as Capt. Edwin Rummill
+• Dorothy Dandridge as Mahia
+• Broderick Crawford as Henry Scott
+• Stuart Whitman as Leroy Martin
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• Score composed by Miklós Rózsa
+
+**Maritime Connections:**  
+A rare mutiny‑at‑sea film focused on greed rather than tyranny.
+
+**Reflection:**  
+The captain knew what was going on from the start, which was interesting. Also a rare mutiny movie that was about greed as opposed to tyranny.
+
+---
+
+# *Yangtze Incident: The Story of HMS Amethyst* (1957)  
+[More Info](https://en.wikipedia.org/wiki/Yangtse_Incident:_The_Story_of_H.M.S._Amethyst)
+
+**Release Date:** 1957  
+**Studio:** Associated British Picture Corporation  
+**Director:** Michael Anderson  
+
+**Lead Actors/Actresses:**  
+• Richard Todd as Lt. Commander John Kerans
+• William Hartnell as First Lieutenant
+• Akim Tamiroff as Colonel Peng
+• Donald Houston as Leading Seaman Frank
+
+**Awards:**  
+• BAFTA nomination for Best British Screenplay
+
+**Music:**  
+• Score composed by Leighton Lucas
+
+**Maritime Connections:**  
+Tells the story of the real HMS Amethyst, trapped on the Yangtze River during the Chinese Civil War.
+
+**Reflection:**  
+Boring, but the real Amethyst was used. Also an important story. Used a fake Chinese person as the Chinese colonel. Didn’t explore the Chinese point of view — but why would it.
+
+---
+
+# *Hell and High Water* (1954)  
+[More Info](https://en.wikipedia.org/wiki/Hell_and_High_Water_(1954_film))
+
+**Release Date:** 1954  
+**Studio:** 20th Century Fox  
+**Director:** Samuel Fuller  
+
+**Lead Actors/Actresses:**  
+• Richard Widmark as Capt. Adam Jones
+• Bella Darvi as Professor Denise Gerard
+• Victor Francen as Prof. Montel
+• Cameron Mitchell as Chief Carpenter
+
+**Awards:**  
+• Academy Award nomination for Best Special Effects
+
+**Music:**  
+• Score composed by Alfred Newman
+
+**Maritime Connections:**  
+Cold War submarine thriller — civilians repurpose a Japanese WWII submarine to stop a potential atomic war.
+
+**Reflection:**  
+A sub movie with civilians aboard a repurposed Japanese WWII sub, trying to stop an atomic war. Incredibly misogynistic and racist.
+
+---
+
+# *Crash Dive* (1943)  
+[More Info](https://en.wikipedia.org/wiki/Crash_Dive)
+
+**Release Date:** 1943  
+**Studio:** 20th Century Fox  
+**Director:** Archie Mayo  
+
+**Lead Actors/Actresses:**  
+• Tyrone Power as Lt. Ward Stewart
+• Anne Baxter as Jean Hewlett
+• Dana Andrews as Lt. Cmdr. Dewey Connors
+• James Gleason as Chief Mike 'Mac' McDonnell
+
+**Awards:**  
+• Academy Award for Best Special Effects
+
+**Music:**  
+• Score composed by David Raksin
+
+**Maritime Connections:**  
+Wartime submarine adventure mixing romance, espionage, and naval action.
+
+**Reflection:**  
+Classic wartime submarine drama starring Tyrone Power.
+
+---
+
+# *Hell Below Zero* (1954)  
+[More Info](https://en.wikipedia.org/wiki/Hell_Below_Zero)
+
+**Release Date:** 1954  
+**Studio:** Columbia Pictures  
+**Director:** Mark Robson  
+
+**Lead Actors/Actresses:**  
+• Alan Ladd as Duncan Craig
+• Joan Tetzel as Judie Nordahl
+• Basil Sydney as Capt. Nordahl
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• Score composed by Clifton Parker
+
+**Maritime Connections:**  
+Adventure set against whaling expeditions in the Antarctic seas.
+
+**Reflection:**  
+Whaling‑based maritime thriller with Alan Ladd. Excellent scenes of 20th century whaling.
+
+---
+
+# *Morituri* (1965)  
+[More Info](https://en.wikipedia.org/wiki/Morituri_(1965_film))
+
+**Release Date:** 1965  
+**Studio:** 20th Century Fox  
+**Director:** Bernhard Wicki  
+
+**Lead Actors/Actresses:**  
+• Marlon Brando as Robert Crain
+• Yul Brynner as Captain Muller
+• Janet Margolin as Esther
+
+**Awards:**  
+• Nominated for 2 Academy Awards
+
+**Music:**  
+• Score composed by Jerry Goldsmith
+
+**Maritime Connections:**  
+Spy thriller set aboard a German blockade runner during WWII.
+
+**Reflection:**  
+A taut espionage maritime thriller with Brando undercover on a Nazi ship.
+
+---
+
+# *A Twist of Sand* (1968)  
+[More Info](https://en.wikipedia.org/wiki/A_Twist_of_Sand)
+
+**Release Date:** 1968  
+**Studio:** Metro-Goldwyn-Mayer (MGM)  
+**Director:** Don Chaffey  
+
+**Lead Actors/Actresses:**  
+• Richard Johnson as John Bishop
+• Honor Blackman as Julie Chambois
+• Jeremy Kemp as Major Hillary
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• Score composed by Ron Goodwin
+
+**Maritime Connections:**  
+Ex‑submarine commander smuggling diamonds off the Namibian coast.
+
+**Reflection:**  
+Gritty smuggling story blending ex‑submariners and maritime adventure.
+
+---
+
+# *Battleship* (2012)  
+[More Info](https://en.wikipedia.org/wiki/Battleship_(film))
+
+**Release Date:** 2012  
+**Studio:** Universal Pictures  
+**Director:** Peter Berg  
+
+**Lead Actors/Actresses:**  
+• Taylor Kitsch as Lt. Alex Hopper
+• Rihanna as Petty Officer Cora Raikes
+• Alexander Skarsgård as Stone Hopper
+• Liam Neeson as Admiral Shane
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• Score composed by Steve Jablonsky
+
+**Maritime Connections:**  
+Alien invasion film featuring U.S. Navy ships in a massive battle sequence.
+
+**Reflection:**  
+A modern, effects‑heavy blockbuster with questionable plot but lots of naval spectacle.
+
+---
+
+# *The Wackiest Ship in the Army* (1960)  
+**Release Date:** December 1960 (USA)  
+**Studio:** Columbia Pictures  
+**Director:** Richard Murphy  
+
+**Lead Actors/Actresses:**  
+• Jack Lemmon as Lt. Rip Crandall
+• Ricky Nelson as Ens. Tommy Hanson
+• John Lund as Commander Vandewater
+• Mike Kellin as Chief Mate Jack
+
+**Awards:**  
+• None
+
+**Music:**  
+• Score composed by George Duning
+
+**Maritime Connections:**  
+Dramedy about a yachtsman turned WWII naval officer commanding a decrepit wooden sailing schooner refitted for military duty during WWII.
+
+**Reflection:**  
+This is possibly the worst title I've seen for a decent movie. It makes the movie sound silly, when in fact Jack Lemmon gives a much more grounded performance than he did in *Mr. Roberts*, where he was silly. This movie was apparently very loosely based on a real US Navy ship, *Echo*, a scow of New Zealand registry built in 1892, that was transferred to the US Navy under Reverse Lend Lease from New Zealand. The real ship was used for cargo. In the movie, it is used to transport an Australian Coastwatcher to his station. Ricky Nelson is so‑so at best, but he sings *Miss New Orleans* well.
+
+---
+
+# *The Sand Pebbles* (1966)  
+**Release Date:** December 20, 1966 (USA)  
+**Studio:** 20th Century Fox  
+**Director:** Robert Wise  
+
+**Lead Actors/Actresses:**  
+• Steve McQueen as Jake Holman
+• Richard Attenborough as Frenchy Burgoyne
+• Candice Bergen as Shirley Eckert
+• Mako as Po‑han
+
+**Awards:**  
+• Nominated for 8 Academy Awards including Best Actor (Steve McQueen), Best Supporting Actor (Mako), and Best Picture
+
+**Music:**  
+• Composed by Jerry Goldsmith
+
+**Maritime Connections:**  
+Set in 1926 China, the film follows the crew of a U.S. Navy gunboat *San Pablo* patrolling the Yangtze River, reflecting the tensions of imperialism and cultural clashes.
+
+**Reflection:**  
+Watch this movie together with *The Yangtse Incident: The Story of HMS Amethyst* (1957). If you can filter the racial biases, these two movies give some idea of what it must have been like for navies during the Chinese Civil War. For *The Sand Pebbles*, there is tension from the beginning, like Steve McQueen has a blister that won't heal. The *San Pablo* itself seems right on outside but all wrong on the inside, with “coolies” doing most of the grunt work on the ship. It makes me think there are two kinds of maritime movies: ones that at least in part try to describe the feeling and rhythm of life on the water (*Western Approaches* is that kind of movie). But *Jaws* is not that kind of movie, nor is *The Sand Pebbles*. That does not make them lesser maritime movies. This is Candice Bergen’s second movie.
+
+---
+
+# *The Wreck of the Mary Deare* (1959)  
+**Release Date:** November 5, 1959 (USA)  
+**Studio:** Metro-Goldwyn-Mayer (MGM)  
+**Director:** Michael Anderson  
+
+**Lead Actors/Actresses:**  
+• Gary Cooper as Gideon Patch
+• Charlton Heston as John Sands
+• Michael Redgrave as Sir Wilfrid Lucas
+• Richard Harris as Higgins
+
+**Awards:**  
+• None
+
+**Music:**  
+• Score composed by George Duning
+
+**Maritime Connections:**  
+A suspense drama about a salvage crew discovering a seemingly abandoned freighter in the English Channel, then uncovering insurance fraud and a set‑up of the first mate.
+
+**Reflection:**  
+Read the book, just read the book. On the upside they filmed underwater with very early scuba gear, which may have been easier than filming ships in storms but probably no less dangerous. Sands’ (Heston) partner, Mike, is played by Ben Wright, who played the Austrian Nazi (Herr Zeller) in *The Sound of Music*. He also had a small role in *The Sand Pebbles*. Also, a young Richard Harris plays the bad guy, and it is fun to contrast restrained but relaxed acting with Cooper’s notoriously restrained but tense acting.
+
+---
+
+# *You're in the Navy Now* (1951)  
+[More Info](https://youtu.be/oKuDCsPtyPw?si=LV-7VEdcVaYmD3uk)
+
+**Release Date:** March 1951 (USA)  
+**Studio:** 20th Century Fox  
+**Director:** Henry Hathaway  
+
+**Lead Actors/Actresses:**  
+• Gary Cooper as Lt. John Harkness
+• Jane Greer as Lt. Beauregard
+• Millard Mitchell as Chief Warrant Officer
+• Eddie Albert as Lt. J.G. Butch
+
+**Awards:**  
+• None
+
+**Music:**  
+• Score composed by Cyril J. Mockridge
+
+**Maritime Connections:**  
+Inexperienced officers are given command of a new experimental steam‑powered ship during WWII. (The condenser was experimental, not the steam.)
+
+**Reflection:**  
+This movie pairs with *The Wackiest Ship in the Army.* In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don't get opening credits. It’s worth watching just to see who you can recognize.
+
+---
+
+# *1492: Conquest of Paradise* (1992)  
+**Release Date:** 1992  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *20,000 Leagues Under the Sea (TV Movie)* (1997)  
+**Release Date:** 1997  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Adrift* (2018)  
+**Release Date:** 2018  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *A Hijacking* (2013)  
+**Release Date:** 2013  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Alaska Seas* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *All Hands on Deck* (1961)  
+**Release Date:** 1961  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *All Is Lost* (2013)  
+**Release Date:** 2013  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Atlantic Convoy* (1942)  
+**Release Date:** 1942  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Away With The Sails (instructional film)* (1936)  
+**Release Date:** 1936  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Battle of the Coral Sea* (1959)  
+**Release Date:** 1959  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Battle Stations* (1956)  
+**Release Date:** 1956  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Below* (2002)  
+**Release Date:** 2002  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Black Sea* (2014)  
+**Release Date:** 2014  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Captain Ron* (1992)  
+**Release Date:** 1992  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *China Seas* (1935)  
+**Release Date:** 1935  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Close Quarters* (1943)  
+**Release Date:** 1943  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Cutthroat Island* (1995)  
+**Release Date:** 1995  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Damn the Defiant* (1962)  
+**Release Date:** 1962  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Das Boot* (1981)  
+**Release Date:** 1981  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Dead Calm* (1989)  
+**Release Date:** 1989  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Death on the Nile* (2022)  
+**Release Date:** 2022  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Deep Rising* (1998)  
+**Release Date:** 1998  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Deepwater Horizon* (2016)  
+**Release Date:** 2016  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Destroyer* (1943)  
+**Release Date:** 1943  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Drifters* (1929)  
+**Release Date:** 1929  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Flat Top* (1952)  
+**Release Date:** 1952  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Ghost of the China Sea* (1958)  
+**Release Date:** 1958  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Ghost Ship* (2002)  
+**Release Date:** 2002  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Harbinger Down* (2015)  
+**Release Date:** 2015  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *In the Heart of the Sea* (2015)  
+**Release Date:** 2015  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Juggernaut* (1974)  
+**Release Date:** 1974  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *K-19: The Widowmaker* (2002)  
+**Release Date:** 2002  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Life of Pi* (2012)  
+**Release Date:** 2012  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Long John Silver* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Long John Silver’s Return to Treasure Island* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Lost Island* (2018)  
+**Release Date:** 2018  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Lusitania: Murder on the Atlantic (TV Movie)* (1998)  
+**Release Date:** 1998  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Middle Passage (Le Passage du Milieu)* (2001)  
+**Release Date:** 2001  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Midway* (1976)  
+**Release Date:** 1976  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Mission of the Shark: The Saga of the USS Indianapolis (TV Movie)* (1991)  
+**Release Date:** 1991  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Mister Roberts* (1955)  
+**Release Date:** 1955  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Morning Departure* (1950)  
+**Release Date:** 1950  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Mutiny* (1952)  
+**Release Date:** 1952  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *North Sea* (1938)  
+**Release Date:** 1938  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *On the Beach (TV Movie)* (2000)  
+**Release Date:** 2000  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Operation Pacific* (1951)  
+**Release Date:** 1951  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Operation Petticoat* (1959)  
+**Release Date:** 1959  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Pacific Destiny* (1956)  
+**Release Date:** 1956  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Phantom* (2013)  
+**Release Date:** 2013  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Piper (Pixar short)* (2016)  
+**Release Date:** 2016  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Pirates of the Caribbean: The Curse of the Black Pearl* (2003)  
+**Release Date:** 2003  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Plymouth Adventure* (1952)  
+**Release Date:** 1952  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Poseidon* (2006)  
+**Release Date:** 2006  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *PT 109* (1963)  
+**Release Date:** 1963  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Pursuit of the Graf Spee* (1956)  
+**Release Date:** 1956  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Rendezvous with Death* (1950)  
+**Release Date:** 1950  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Return to Treasure Island* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Riddle of the Sands* (1979)  
+**Release Date:** 1979  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Robinson Crusoe* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Romance on the High Seas* (1948)  
+**Release Date:** 1948  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Run Silent, Run Deep* (1958)  
+**Release Date:** 1958  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Sailor of the King* (1953)  
+**Release Date:** 1953  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Seven Waves Away (Abandon Ship!)* (1957)  
+**Release Date:** 1957  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Son of Fury: The Story of Benjamin Blake* (1942)  
+**Release Date:** 1942  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Souls at Sea* (1937)  
+**Release Date:** 1937  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Speed 2: Cruise Control* (1997)  
+**Release Date:** 1997  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Submarine Raider* (1942)  
+**Release Date:** 1942  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Submarine X-1* (1968)  
+**Release Date:** 1968  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Swiss Family Robinson* (1960)  
+**Release Date:** 1960  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Task Force* (1949)  
+**Release Date:** 1949  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The African Queen* (1951)  
+**Release Date:** 1951  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Boat That Rocked (Pirate Radio)* (2009)  
+**Release Date:** 2009  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Deep Six* (1958)  
+**Release Date:** 1958  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Enemy Below* (1957)  
+**Release Date:** 1957  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Finest Hours* (2016)  
+**Release Date:** 2016  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Fortunes of Captain Blood* (1950)  
+**Release Date:** 1950  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Frogmen* (1951)  
+**Release Date:** 1951  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Guardian* (2006)  
+**Release Date:** 2006  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Life Aquatic with Steve Zissou* (2004)  
+**Release Date:** 2004  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Mercy* (2017)  
+**Release Date:** 2017  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Neptune Factor* (1973)  
+**Release Date:** 1973  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Old Man and the Sea* (1958)  
+**Release Date:** 1958  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Perfect Storm* (2000)  
+**Release Date:** 2000  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Pirate of the Seven Seas* (1953)  
+**Release Date:** 1953  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Poseidon Adventure* (1972)  
+**Release Date:** 1972  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Poseidon Adventure* (2005)  
+**Release Date:** 2005  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Savings of Bill Blewett* (1936)  
+**Release Date:** 1936  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Sea Raiders of Tortuga (Pirates of Tortuga)* (1961)  
+**Release Date:** 1961  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Sea Wolf* (1993)  
+**Release Date:** 1993  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Sea Wolf* (1997)  
+**Release Date:** 1997  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Sea Wolf* (2009)  
+**Release Date:** 2009  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Sea Wolves* (1980)  
+**Release Date:** 1980  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Seas Shall Not Have Them* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Secret Sharer* (2014)  
+**Release Date:** 2014  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Seekers* (1954)  
+**Release Date:** 1954  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Ship That Died of Shame* (1955)  
+**Release Date:** 1955  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Spy in Black* (1939)  
+**Release Date:** 1939  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Spy Who Loved Me* (1977)  
+**Release Date:** 1977  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Valiant* (1962)  
+**Release Date:** 1962  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *The Voyage of Sinbad (The Golden Voyage of Sinbad)* (1973)  
+**Release Date:** 1973  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Trawler Boy* (1956)  
+**Release Date:** 1956  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *U-571* (2000)  
+**Release Date:** 2000  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *U-boat Prisoner* (1944)  
+**Release Date:** 1944  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *USS Indianapolis: Men of Courage* (2016)  
+**Release Date:** 2016  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Voyage to the Bottom of the Sea* (1961)  
+**Release Date:** 1961  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
+# *Wind* (1992)  
+**Release Date:** 1992  
+**Studio:** TBD  
+**Director:** TBD  
+
+**Lead Actors/Actresses:**  
+• TBD
+
+**Awards:**  
+• TBD
+
+**Music:**  
+• TBD
+
+**Maritime Connections:**  
+TBD
+
+**Reflection:**  
+TBD
+
+---
+
