@@ -170,7 +170,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*The Wreck of the Mary Deare* (1959)](#the-wreck-of-the-mary-deare-1959)  
 
 1. [*Yangtze Incident: The Story of HMS Amethyst* (1957)](#yangtze-incident-the-story-of-hms-amethyst-1957)  
-1. [*You're in the Navy Now* (1951)](#youre-in-the-navy-now-1951-1)  
+
 1. [*You’re in the Navy Now* (1951)](#youre-in-the-navy-now-1951)  
    
 
@@ -2992,34 +2992,6 @@ Set in 1926 China, the film follows the crew of a U.S. Navy gunboat *San Pablo* 
 
 **Reflection:**  
 Watch this movie together with *The Yangtse Incident: The Story of HMS Amethyst* (1957). If you can filter the racial biases, these two movies give some idea of what it must have been like for navies during the Chinese Civil War. For *The Sand Pebbles*, there is tension from the beginning, like Steve McQueen has a blister that won't heal. The *San Pablo* itself seems right on outside but all wrong on the inside, with “coolies” doing most of the grunt work on the ship. It makes me think there are two kinds of maritime movies: ones that at least in part try to describe the feeling and rhythm of life on the water (*Western Approaches* is that kind of movie). But *Jaws* is not that kind of movie, nor is *The Sand Pebbles*. That does not make them lesser maritime movies. This is Candice Bergen’s second movie.
-
-
----
-
-# *You're in the Navy Now* (1951)  
-[More Info](https://youtu.be/oKuDCsPtyPw?si=LV-7VEdcVaYmD3uk)
-
-**Release Date:** March 1951 (USA)  
-**Studio:** 20th Century Fox  
-**Director:** Henry Hathaway  
-
-**Lead Actors/Actresses:**  
-• Gary Cooper as Lt. John Harkness
-• Jane Greer as Lt. Beauregard
-• Millard Mitchell as Chief Warrant Officer
-• Eddie Albert as Lt. J.G. Butch
-
-**Awards:**  
-• None
-
-**Music:**  
-• Score composed by Cyril J. Mockridge
-
-**Maritime Connections:**  
-Inexperienced officers are given command of a new experimental steam‑powered ship during WWII. (The condenser was experimental, not the steam.)
-
-**Reflection:**  
-This movie pairs with *The Wackiest Ship in the Army.* In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don't get opening credits. It’s worth watching just to see who you can recognize.
 
 ---
 
