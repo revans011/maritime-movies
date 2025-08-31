@@ -16,11 +16,9 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*All Hands on Deck* (1961)](#all-hands-on-deck-1961)  
 1. [*All Is Lost* (2013)](#all-is-lost-2013)  
 1. [*Amistad* (1997)](#amistad-1997)  
-1. [*Atlantic Convoy* (1942)](#atlantic-convoy-1942)  
-1. [*Atlantic Convoy* (1942)](#atlantic-convoy-1942-1)  
+1. [*Atlantic Convoy* (1942)](#atlantic-convoy-1942)
 1. [*Away With The Sails (instructional film)* (1936)](#away-with-the-sails-instructional-film-1936)  
-1. [*Battle of the Coral Sea* (1959)](#battle-of-the-coral-sea-1959)  
-1. [*Battle of the Coral Sea* (1959)](#battle-of-the-coral-sea-1959-1)  
+1. [*Battle of the Coral Sea* (1959)](#battle-of-the-coral-sea-1959)   
 1. [*The Battle of the River Plate* (1956)](#the-battle-of-the-river-plate-1956)  
 1. [*Battle Stations* (1956)](#battle-stations-1956)  
 1. [*Battle Stations* (1956)](#battle-stations-1956-1)  
@@ -3309,27 +3307,7 @@ TBD
 
 ---
 
-# *Atlantic Convoy* (1942)  
-**Release Date:** 1942  
-**Studio:** TBD  
-**Director:** TBD  
 
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
 
 # *Away With The Sails (instructional film)* (1936)  
 **Release Date:** 1936  
@@ -3351,27 +3329,6 @@ TBD
 **Reflection:**  
 TBD
 
----
-
-# *Battle of the Coral Sea* (1959)  
-**Release Date:** 1959  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
 
 ---
 
