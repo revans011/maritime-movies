@@ -102,7 +102,6 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1. [*Morituri* (1965)](#morituri-1965)
 1. [*A Twist of Sand* (1968)](#a-twist-of-sand-1968)
 1. [*Battleship* (2012)](#battleship-2012)
-1. [*The Wackiest Ship in the Army* (1960)](#the-wackiest-ship-in-the-army-1960)
 1. [*The Sand Pebbles* (1966)](#the-sand-pebbles-1966)
 1. [*The Wreck of the Mary Deare* (1959)](#the-wreck-of-the-mary-deare-1959)
 1. [*You're in the Navy Now* (1951)](#youre-in-the-navy-now-1951)
@@ -3103,31 +3102,6 @@ Alien invasion film featuring U.S. Navy ships in a massive battle sequence.
 
 **Reflection:**  
 A modern, effects‑heavy blockbuster with questionable plot but lots of naval spectacle.
-
----
-
-# *The Wackiest Ship in the Army* (1960)  
-**Release Date:** December 1960 (USA)  
-**Studio:** Columbia Pictures  
-**Director:** Richard Murphy  
-
-**Lead Actors/Actresses:**  
-• Jack Lemmon as Lt. Rip Crandall
-• Ricky Nelson as Ens. Tommy Hanson
-• John Lund as Commander Vandewater
-• Mike Kellin as Chief Mate Jack
-
-**Awards:**  
-• None
-
-**Music:**  
-• Score composed by George Duning
-
-**Maritime Connections:**  
-Dramedy about a yachtsman turned WWII naval officer commanding a decrepit wooden sailing schooner refitted for military duty during WWII.
-
-**Reflection:**  
-This is possibly the worst title I've seen for a decent movie. It makes the movie sound silly, when in fact Jack Lemmon gives a much more grounded performance than he did in *Mr. Roberts*, where he was silly. This movie was apparently very loosely based on a real US Navy ship, *Echo*, a scow of New Zealand registry built in 1892, that was transferred to the US Navy under Reverse Lend Lease from New Zealand. The real ship was used for cargo. In the movie, it is used to transport an Australian Coastwatcher to his station. Ricky Nelson is so‑so at best, but he sings *Miss New Orleans* well.
 
 ---
 
