@@ -5,10 +5,10 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 # Table of Contents
 
 
-1.[*1492: Conquest of Paradise* (1992)](#1492-conquest-of-paradise-1992)
-1.[*20,000 Leagues Under the Sea* (1954)](#20000-leagues-under-the-sea-1954)
-1.[*20,000 Leagues Under the Sea (TV Movie)* (1997)](#20000-leagues-under-the-sea-tv-movie-1997)
-1.[*A Hijacking* (2013)](#a-hijacking-2013)
+1.[*1492: Conquest of Paradise* (1992)](#1492-conquest-of-paradise-1992)  
+1.[*20,000 Leagues Under the Sea* (1954)](#20000-leagues-under-the-sea-1954)  
+1.[*20,000 Leagues Under the Sea (TV Movie)* (1997)](#20000-leagues-under-the-sea-tv-movie-1997)  
+1.[*A Hijacking* (2013)](#a-hijacking-2013)  
 1.[*A Twist of Sand* (1968)](#a-twist-of-sand-1968)
 1.[*Above Us the Waves* (1955)](#above-us-the-waves-1955)
 1.[*Action in the North Atlantic* (1943)](#action-in-the-north-atlantic-1943)
