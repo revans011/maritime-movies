@@ -2374,7 +2374,7 @@ History of US aircraft carriers.
 WWII duel between US destroyer and German U-boat.
 
 **Reflection:**  
-
+A classic US destroyer vs German submarine WWII story. It is worth watching to see Jürgens and his 1st officer, played by [Theodore Bikel](https://www.imdb.com/name/nm0000942/bio/?ref_=nm_ov_bio_sm) act together. Then contrast their performace with the very stiff and one-dimensional performace of Robert Mitchum. Jürgens may have had a better script, but even so the tragic underpinnings of Mitchum's character never float to the surface of his character. Perhaps it was the director's fault. Nevertheless, the movie is entertaining until the denouement, which is absurd. Again, worth watching for Jürgens who was in at least to other maritime films, _Tamango_ (1958), and _The Spy Who Loved Me_ (1977).
 
 ---
 
