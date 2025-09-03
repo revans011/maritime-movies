@@ -3857,21 +3857,23 @@ TBD
 ---
 
 # *North Sea* (1938)  
-**Release Date:** 1938  
-**Studio:** TBD  
-**Director:** TBD  
+**Release Date:** March 7, 1938  
+
+**Studio:** GPO (General Post Office) Film Unit  
+
+**Director:** Harry Watt  
 
 **Lead Actors/Actresses:**  
-• TBD
+- Bill Blewitt (real fisherman/postman cast in a dramatized documentary role)  
 
 **Awards:**  
-• TBD
+- None documented (noted instead for influence on documentary filmmaking)  
 
 **Music:**  
-• TBD
+- Ernst Hermann Meyer  
 
 **Maritime Connections:**  
-TBD
+A docudrama-style reconstruction of a 1937 incident where the Aberdeen trawler *John Gillman* was caught in a North Sea storm and rescued with the aid of coastal radio operators in Wick. The film highlights the dangers of fishing life, the use of maritime radio distress calls, and the coordination of coastguard rescue efforts.
 
 **Reflection:**  
 TBD
