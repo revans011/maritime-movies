@@ -154,7 +154,6 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1.  [*The Ship That Died of Shame* (1955)](#the-ship-that-died-of-shame-1955)
 1.  [*The Silent World* (1956)](#the-silent-world-1956)
 1.  [*Sink the Bismarck!* (1960)](#sink-the-bismarck-1960)
-1.  [*Sink the Bismarck!* (1960)](#sink-the-bismarck-1960-1)
 1.  [*Son of Fury: The Story of Benjamin Blake* (1942)](#son-of-fury-the-story-of-benjamin-blake-1942)
 1.  [*Souls at Sea* (1937)](#souls-at-sea-1937)
 1.  [*Souls at Sea* (1937)](#souls-at-sea-1937-1)
@@ -4936,31 +4935,6 @@ TBD
 
 **Maritime Connections:**
 The story takes place underwater in the North Sea. It involves commercial saturation diving; the diver is working beneath the ocean, tethered by an umbilical to a support vessel, which drifts and severs the connection.
-
----
-
-# *Sink the Bismarck!* (1960)
-
-**Release Date:** February 11, 1960 (UK & USA)
-
-**Studio:** 20th Century-Fox
-
-**Director:** Lewis Gilbert
-
-**Lead Actors/Actresses:**
-- Kenneth More as Captain Jonathan Shepard  
-- Dana Wynter as Second Officer Anne Davis  
-- Carl Möhner as Kapitän Ernst Lindemann  
-- Laurence Naismith as Admiral Sir Dudley Pound  
-
-**Awards:**
-- None found in major listings.
-
-**Music:**
-- Score composed by Clifton Parker
-
-**Maritime Connections:**
-The film is about the naval operations, chase, and sinking of the German battleship *Bismarck* during WWII by the British Royal Navy.
 
 ---
 
