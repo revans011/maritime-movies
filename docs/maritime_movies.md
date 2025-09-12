@@ -1682,7 +1682,7 @@ Though modest in production, it’s an early postwar depiction of authoritarian 
 Chronicles the real-life Royal Navy operation to destroy the German battleship *Bismarck*. Features strategy rooms and scenes aboard destroyers and carriers.  
 
 **Reflection:**  
-A tightly paced naval thriller, its documentary style adds tension. It captures both tactical command and sailors’ fear. For WWII naval history, this is foundational cinema.
+The great part is that Edward R Murrow play himself reading the news in several scenes, so the movie is worth watching for that. More did a good job acting in the scenes involving his son, but the creepyness of Captain Shepard (More) hitting on his much younger subordinate (Wynter) was hard to overcome. 
 
 ---
 
@@ -4936,6 +4936,9 @@ TBD
 **Maritime Connections:**
 The story takes place underwater in the North Sea. It involves commercial saturation diving; the diver is working beneath the ocean, tethered by an umbilical to a support vessel, which drifts and severs the connection.
 
+**Reflection**  
+Not yet screened.
+
 ---
 
 # *Last Breath* (2025)
@@ -4967,4 +4970,7 @@ The story takes place underwater in the North Sea. It involves commercial satura
 **Runtime:** 93 minutes
 
 **Maritime Connections:**
-Based on a true incident involving saturation divers in the North Sea. The diving bell’s umbilical is severed after a ship malfunction, stranding one diver underwater with minimal oxygen. The story follows the rescue attempt both underwater and from the surface support crew.
+Based on a true incident involving saturation divers in the North Sea. The diving bell’s umbilical is severed after a ship malfunction, stranding one diver underwater with minimal oxygen. The story follows the rescue attempt both underwater and from the surface support crew.  
+
+**Reflection**  
+It seemed very real to me, although I did not get the sense of isolation that surely must be a part of saturation diving. These divers are, for all intents and purposes, four days from the nearest help for anything. That's becuause four days is how long it takes to decompress. So, a diver with appendicitis could be physically five feet from a surgeon but not be able to get help until decompression. 
