@@ -4974,3 +4974,39 @@ Based on a true incident involving saturation divers in the North Sea. The divin
 
 **Reflection**  
 It seemed very real to me, although I did not get the sense of isolation that surely must be a part of saturation diving. These divers are, for all intents and purposes, four days from the nearest help for anything. That's becuause four days is how long it takes to decompress. So, a diver with appendicitis could be physically five feet from a surgeon but not be able to get help until decompression. 
+
+---
+
+# *Tamango* (1958)  
+
+[Watch on YouTube](https://youtu.be/4J0TlbkA0rs?si=2n5V7vZxQz9qXz5)  
+
+**Release Date:** January 24, 1958 (France); 1959 (USA, limited); 1962 (USA, wide)  
+
+**Studio:** Les Films du Cyclope (France), CEI Incom (Italy)  
+
+**Director:** John Berry  
+
+**Lead Actors/Actresses:**  
+
+- Dorothy Dandridge as Aiché  
+- Curd Jürgens as Captain John Reinker  
+- Alex Cressan as Tamango  
+- Jean Servais as Dr. Corot  
+- Roger Hanin as First Mate  
+- Guy Mairesse as Second Mate  
+
+**Awards:**
+
+- None
+
+**Music:**
+
+- Score composed by René Cloërec
+
+**Maritime Connections:**
+
+The story is set aboard the slave ship *Esperanza* in 1820, sailing from Guinea to Cuba during the transatlantic slave trade. It depicts the brutal conditions faced by enslaved Africans below deck and the tense dynamics between the crew and the captives, led by the warrior Tamango, culminating in a dramatic revolt at sea.
+
+**Reflection:**  
+Tamango (1958) is one of the few movies that take place aboard a slave ship. 
