@@ -163,6 +163,7 @@ Some of the entries are not finished and have only brief entries. I keep a JSON 
 1.  [*Submarine Raider* (1942)](#submarine-raider-1942)
 1.  [*Submarine X-1* (1968)](#submarine-x-1-1968)
 1.  [*Swiss Family Robinson* (1960)](#swiss-family-robinson-1960)
+1.  [*Tamango* (1958)](#tamango-1958)
 1.  [*Task Force* (1949)](#task-force-1949)
 1.  [*Task Force* (1949)](#task-force-1949-1)
 1.  [*Trawler Boy* (1956)](#trawler-boy-1956)
