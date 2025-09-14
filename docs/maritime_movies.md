@@ -3253,28 +3253,6 @@ TBD
 
 ---
 
-# *Captain Ron* (1992)  
-**Release Date:** 1992  
-**Studio:** TBD  
-**Director:** TBD  
-
-**Lead Actors/Actresses:**  
-• TBD
-
-**Awards:**  
-• TBD
-
-**Music:**  
-• TBD
-
-**Maritime Connections:**  
-TBD
-
-**Reflection:**  
-TBD
-
----
-
 # *China Seas* (1935)  
 **Release Date:** 1935  
 **Studio:** TBD  
@@ -5010,4 +4988,42 @@ It seemed very real to me, although I did not get the sense of isolation that su
 The story is set aboard the slave ship *Esperanza* in 1820, sailing from Guinea to Cuba during the transatlantic slave trade. It depicts the brutal conditions faced by enslaved Africans below deck and the tense dynamics between the crew and the captives, led by the warrior Tamango, culminating in a dramatic revolt at sea.
 
 **Reflection:**  
-Tamango (1958) is one of the few movies that take place aboard a slave ship. 
+_Tamango_ (1958) is one of the few movies that take place aboard a slave ship. 
+
+---
+
+# *Captain Ron* (1992)
+
+[Watch on YouTube](https://youtu.be/1m5ec1vS1pA?si=example)  <!-- Note: Actual YouTube link may vary; search for full movie availability -->
+
+**Release Date:** September 18, 1992 (USA)
+
+**Studio:** Touchstone Pictures
+
+**Director:** Thom Eberhardt
+
+**Lead Actors/Actresses:**
+
+• Kurt Russell as Captain Ron  
+• Martin Short as Martin Harvey  
+• Mary Kay Place as Katherine Harvey  
+• Meadow Sisto as Carrie  
+• Benjamin Salisbury as Benjamin  
+
+**Awards:**
+
+• Young Artist Award nominations for Meadow Sisto and Benjamin Salisbury  
+
+**Music:**
+
+• Score composed by Nicholas Pike  
+
+**Maritime Connections:**
+
+The story follows a family who inherits a dilapidated yacht in the Caribbean and hires the eccentric Captain Ron to sail it to Miami, leading to a series of comedic misadventures at sea involving pirates, guerrilla encounters, and the challenges of amateur sailing in tropical waters.
+
+**Reflection:**  
+
+_Captain Ron_ (1992) is similar to the 1991 film _What about Bob?_ (1992). In both movies, an eccentric outsider disrupts a family's vacation. But Bob (Bill Murry) is a much more sympathetic character than Kurt Russell's Ron. _What about Bob?_ (1992) is endearing; _Captain Ron_ (1992) is just long, and the scenes about the sailboat, especially in the engine room, are implausible to the point of silly. At one point, after Captain Ron has been dismissed as captain, the Harvey family are captured by Cuban pirates. Ron appears without explaination to save them. The movie doesn't make sense. The thing to do is watch _Captain Ron_ (1992) and _What about Bob?_ (1992) back to back and compare them, and ask, why is one better?
+
+---
