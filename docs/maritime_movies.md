@@ -4958,7 +4958,8 @@ It seemed very real to me, although I did not get the sense of isolation that su
 
 # *Tamango* (1958)  
 
-[Watch on YouTube](https://youtu.be/4J0TlbkA0rs?si=2n5V7vZxQz9qXz5)  
+[Watch the final scene on YouTube](https://youtu.be/0hMFkQc-2Rk?si=6-nWAoYPU3KNJoKc)  
+[Watch an early scene with Curd Jurgens on YouTube](https://youtu.be/S9vvDry59Dg?si=NPJW71tUaf6GF4qE)
 
 **Release Date:** January 24, 1958 (France); 1959 (USA, limited); 1962 (USA, wide)  
 
@@ -4988,7 +4989,7 @@ It seemed very real to me, although I did not get the sense of isolation that su
 The story is set aboard the slave ship *Esperanza* in 1820, sailing from Guinea to Cuba during the transatlantic slave trade. It depicts the brutal conditions faced by enslaved Africans below deck and the tense dynamics between the crew and the captives, led by the warrior Tamango, culminating in a dramatic revolt at sea.
 
 **Reflection:**  
-_Tamango_ (1958) is one of the few movies that take place aboard a slave ship. 
+_Tamango_ (1958) is one of the few movies that take place aboard a slave ship. This film is worth watching--Jurgens and Dandridge became a couple after the movie. France banned the film in its West African Colonies because _Tamango_ (1958) is a French (and Italian) film about an enslaved man fighting back against his oppressor and was filmed at a time when African colonies, in particular Algeria, were revolting, or threatening to revolt against their French colonizers. In the United States, the film violated the miscegenation section of the Hayes Code (Captain Reinker, a Dutch sea captain played by Curt Jurgens, who is white and Aïché, played by Dorothy Dandridge, who is African American, kiss on screen) and was not distributed nationwide in the US until 1962. Although this is a French and Italian film, film posters used Jurgens American film name, instead of his European one, Curd Jürgens, suggesting the film was meant for the American market. The movie is loosely based on a short story by [Prosper Mérimée](https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e) who also wrote the novella _Carmen_. An English translation of Mérimée’s “Tamango” is here: https://merimee.byu.edu/works-2/tamango/
 
 ---
 
