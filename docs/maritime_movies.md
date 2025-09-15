@@ -4922,6 +4922,8 @@ Not yet screened.
 
 # *Last Breath* (2025)
 
+[Watch the trailer on YouTube](https://youtu.be/c9JkXIA-I1E?si=-qAFT0pzPlREKFt9)
+
 **Release Date:** February 28, 2025 (USA); February 27, 2025 (Greece & Netherlands)
 
 **Studio / Production Companies:** Longshot Films; Dark Castle Entertainment; Gold Circle Films; MetFilm
