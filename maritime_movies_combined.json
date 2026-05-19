@@ -1,17 +1,38 @@
 [
   {
-    "title": "1492: Conquest of Paradise",
-    "year": 1992,
-    "watch_link": null,
-    "release_date": "1992",
-    "studio": null,
-    "director": null,
-    "lead_actors": null,
-    "awards": null,
-    "music": null,
-    "maritime_connections": null,
-    "reflection": null
-  },
+  "title": "1492: Conquest of Paradise",
+  "year": 1992,
+  "watch_link": null,
+  "release_date": "October 9, 1992 (US theatrical)",
+  "studio": "Cyrk / Légende Films / Due West / France 3 Cinéma / Gaumont / Scott Free Productions",
+  "director": "Ridley Scott",
+  "lead_actors": [
+    "Gérard Depardieu as Christopher Columbus",
+    "Armand Assante as Sanchez",
+    "Sigourney Weaver as Queen Isabella",
+    "Loren Dean as Older Fernando",
+    "Ángela Molina as Beatrix",
+    "Fernando Rey as Antonio de Marchena",
+    "Michael Wincott as Adrián de Moxica",
+    "Tchéky Karyo as Pinzón",
+    "Frank Langella as Luis de Santángel",
+    "Kevin Dunn as Captain Méndez"
+  ],
+  "awards": [
+    "Golden Globe nomination: Best Original Score – Motion Picture (Vangelis, 50th Golden Globe Awards, 1993; lost to Alan Menken's Aladdin)",
+    "Echo Award (1996): International Artist of the Year – Vangelis",
+    "RTL Golden Lion Award (1996): Best Title Theme for a TV Film or Series – Vangelis"
+  ],
+  "music": [
+    "Score composed by Vangelis (Greek electronic composer)",
+    "Features the English Chamber Choir performing Latin hymns",
+    "Includes Flamenco guitarist-vocalists and indigenous-inspired instrumentation",
+    "Signature track: 'Conquest of Paradise' — became a major European hit in 1995",
+    "Album released October 9, 1992 on EastWest / Atlantic Records"
+  ],
+  "maritime_connections": "The entire film centers on Columbus's 1492 transatlantic voyages aboard three caravels (the Niña, Pinta, and Santa María). Maritime themes are pervasive: open-ocean navigation, celestial wayfinding, crew management and mutiny tensions, landfall in the Caribbean, and the logistical challenges of sustaining successive colonial expeditions across the Atlantic. The film offers extended sequences of blue-water sailing and depicts the psychological and physical toll of extended sea voyages on crews unfamiliar with ocean crossings of such duration.",
+  "reflection": null
+},
   {
     "title": "1899",
     "year": 2022,
@@ -1517,6 +1538,29 @@
     "maritime_connections": "The film follows a British Motor Torpedo Boat flotilla on a perilous mission to destroy a German shore base in the Mediterranean during World War II.",
     "reflection": "Hell Boats* captures the high-speed peril of coastal forces operations, echoing the daring raids in *The Cockleshell Heroes* (1955) while highlighting the often-underrated role of small craft in disrupting enemy supply lines. Though laced with a contrived love triangle, it reflects the era's shift toward more personal war stories, reminding us how maritime films evolved from broad epics to intimate tales of sacrifice, much like *The Enemy Below* (1957) personalized submarine duels."
   },
+  {
+  "title": "Hellcats of the Navy",
+  "year": 1957,
+  "watch_link": null,
+  "release_date": "May 1, 1957 (US theatrical)",
+  "studio": "Columbia Pictures",
+  "director": "Nathan Juran",
+  "lead_actors": [
+    "Ronald Reagan as Cmdr. Casey Abbott",
+    "Nancy Davis (Reagan) as Nurse Lt. Helen Blair",
+    "Arthur Franz as Lt. Cmdr. Don Landon",
+    "Robert Arthur as Lt. Paul Prentice",
+    "Harry Lauter as Lt. (j.g.) Wes Barton",
+    "William Leslie as Bill (Lt. Charlie)",
+    "Fleet Adm. Chester W. Nimitz as himself (uncredited)"
+  ],
+  "awards": null,
+  "music": [
+    "Score conducted by Mischa Bakaleinikoff (Columbia Pictures music department)"
+  ],
+  "maritime_connections": "One of the most submarine-centric films in Hollywood history. The entire plot unfolds aboard the USS Starfish, a U.S. Navy submarine operating in the Sea of Japan during the final stages of WWII. The mission — charting enemy minefields in the Tsushima Strait and severing Japanese supply lines — is drawn from actual Navy operations documented in the nonfiction source book 'Hellcats of the Sea' by Vice Admiral Charles A. Lockwood and Col. Hans Christian Adamson. The film features extended sequences of submarine maneuvering, frogman operations, mine-avoidance, and the command ethics of undersea warfare. Real Admiral Chester W. Nimitz appears on camera in an introductory segment lending the film an unusual documentary authority.",
+  "reflection": "Compare Reagan's performance to Clark Cable's _Run Silent, Run Deep_ performance. A few notes: this was the only joint film appearance by Ronald Reagan and Nancy Davis, who had been married since 1952. The film has no notable awards record — it was a B-movie production with a drab supporting cast — but carries lasting historical curiosity as the only feature pairing a future U.S. President and First Lady. The score is credited to Mischa Bakaleinikoff, the longtime head of Columbia's music department, rather than an independently commissioned composer, which was standard practice for modest studio productions of the era."
+},
   {
     "title": "Heweliusz",
     "year": 2025,
@@ -3910,7 +3954,7 @@
   {
     "title": "The Long Voyage Home",
     "year": 1940,
-    "watch_link": null,
+    "watch_link": "https://youtu.be/F9p31xv8iLw?si=t54UvxZ6rgtHhpaN",
     "release_date": "October 1940 (US)",
     "studio": "United Artists / Argosy Pictures",
     "director": "John Ford",
@@ -3948,7 +3992,7 @@
     "music": [
       "Score composed by Harry Gregson-Williams"
     ],
-    "maritime_connections": "A rescue diver is called out of retirement when a massive prehistoric Megalodon shark — long thought extinct — is released from the depths of the Mariana Trench. Features an international deep-sea research station and extended ocean sequences. Contains knowing references to Jaws.",
+    "maritime_connections": "A rescue diver is called out of retirement when a massive prehistoric Megalodon shark, long thought extinct, is released from the depths of the Mariana Trench. Features an international deep-sea research station and extended ocean sequences. Contains knowing references to Jaws.",
     "reflection": null
   },
   {
@@ -3964,6 +4008,70 @@
     "maritime_connections": null,
     "reflection": null
   },
+  {
+  "title": "Moana",
+  "year": 2016,
+  "watch_link": null,
+  "release_date": "November 23, 2016 (US theatrical); premiered November 14, 2016 at AFI Fest, Los Angeles",
+  "studio": "Walt Disney Animation Studios / Walt Disney Pictures",
+  "director": "John Musker and Ron Clements (co-directors: Don Hall and Chris Williams)",
+  "lead_actors": [
+    "Auli'i Cravalho as Moana (feature film debut)",
+    "Dwayne Johnson as Maui",
+    "Rachel House as Gramma Tala",
+    "Temuera Morrison as Chief Tui",
+    "Jemaine Clement as Tamatoa",
+    "Nicole Scherzinger as Sina",
+    "Alan Tudyk as Heihei"
+  ],
+  "awards": [
+    "Academy Award nominations (89th): Best Animated Feature; Best Original Song ('How Far I'll Go')",
+    "Grammy Award: Best Song Written for Visual Media — Lin-Manuel Miranda for 'How Far I'll Go' (performed by Auli'i Cravalho)",
+    "Annie Awards (44th): 6 nominations, 2 wins — Outstanding Achievement, Animated Effects; Outstanding Achievement for Voice Acting in an Animated Feature"
+  ],
+  "music": [
+    "Original score composed by Mark Mancina",
+    "Songs written by Lin-Manuel Miranda, Opetaia Foa'i, and Mark Mancina",
+    "Lyrics in English, Samoan, and Tokelauan",
+    "Soundtrack released November 18, 2016 on Walt Disney Records; peaked at #2 on the Billboard 200",
+    "Signature song: 'How Far I'll Go' (Miranda); other notable tracks: 'You're Welcome' (Johnson), 'Shiny' (Clement)"
+  ],
+  "maritime_connections": "Maritime wayfinding is the film's entire thematic and narrative core. Moana is the daughter of a Polynesian island chief whose ancestors were master oceanic navigators, and the plot follows her solo open-ocean voyage to restore the heart of the goddess Te Fiti. The film draws deeply on the traditions of Polynesian celestial navigation and wayfinding, the construction and sailing of traditional double-hulled voyaging canoes (waka hourua), and the oral historical record of Pacific island migration across vast stretches of open ocean. A recurring subplot involves Moana's tribe having forgotten their maritime heritage and being forbidden from sailing beyond the reef — the restoration of that wayfinding identity is as central to the film as the quest itself.",
+  "reflection": null
+},
+{
+  "title": "Moana 2",
+  "year": 2024,
+  "watch_link": null,
+  "release_date": "November 27, 2024 (US theatrical); world premiere November 21, 2024 at Lanikuhonua Cultural Institute, Kapolei, Hawaii",
+  "studio": "Walt Disney Animation Studios / Walt Disney Pictures",
+  "director": "David Derrick Jr., Jason Hand, and Dana Ledoux Miller",
+  "lead_actors": [
+    "Auli'i Cravalho as Moana",
+    "Dwayne Johnson as Maui",
+    "Rachel House as Gramma Tala",
+    "Temuera Morrison as Chief Tui",
+    "Nicole Scherzinger as Sina",
+    "Alan Tudyk as Heihei",
+    "Rose Matafeo as Loto",
+    "David Fane as Kele",
+    "Hualālai Chung as Moni"
+  ],
+  "awards": [
+    "Golden Globe nomination (82nd): Best Animated Feature Film",
+    "Hollywood Music in Media Award nominations: Best Original Song in an Animated Film — 'Beyond' and 'Can I Get a Chee Hoo?'",
+    "Society of Composers & Lyricists Award nomination (2025): Outstanding Original Song for a Comedy or Musical Visual Media Production — 'Beyond'"
+  ],
+  "music": [
+    "Score composed by Mark Mancina and Opetaia Foa'i (returning from the original)",
+    "Songs written by Abigail Barlow and Emily Bear (Grammy winners), replacing Lin-Manuel Miranda who had scheduling conflicts",
+    "Opetaia Foa'i and Mark Mancina contributed additional songs",
+    "Soundtrack released November 22, 2024",
+    "Signature tracks: 'Beyond' (Cravalho, billed as a spiritual sequel to 'How Far I'll Go'); 'Can I Get a Chee Hoo?' (Johnson, a callback to 'You're Welcome')"
+  ],
+  "maritime_connections": "Doubles down on the first film's wayfinding themes, now with Moana formally named Motunui's first tautai (master wayfinder) in a thousand years. The entire plot is structured as a multi-island oceanic voyage in search of the sunken island of Motufetu, which once connected all Pacific peoples. Her crew — an engineer, a farmer, and a storyteller — mirrors the actual functional composition of traditional Polynesian voyaging crews. The film grossed over $1 billion worldwide, making it the third highest-grossing film of 2024.",
+  "reflection": null
+},
   {
     "title": "The Neptune Factor",
     "year": 1973,
