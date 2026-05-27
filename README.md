@@ -1,6 +1,15 @@
 # Introduction
 This maritime movie catalogue is designed to be used with AI.
 
+It uses a NoSQL / Semi-Structured data framework, which are approaches for storing and organizing data that do not require the rigid table structure used in relational databases. 
+
+NoSQL originally meant “No SQL,” but is now more commonly interpreted as “Not Only SQL,” reflecting the idea that these databases complement rather than replace traditional relational databases. NoSQL databases are designed to handle flexible schemas, large-scale data, high-speed access, distributed computing environments, and complex or evolving data structures that may not fit neatly into fixed tables. 
+
+NoSQL systems generally fall into four categories, with the **document model** being one of the most common forms of semi-structured data storage. In document databases, data are stored as self-contained documents, usually in a JSON-like format, allowing information to be nested and vary from one record to another. For example, a patient record may include an embedded list of clinical visits and measurements within a single document rather than requiring multiple linked tables. 
+
+Document databases are commonly used for clinical records, user profiles, configuration files, and omics metadata. Popular examples include MongoDB and CouchDB. Their primary strengths are schema flexibility, natural handling of nested data, and straightforward integration with JSON-based applications. However, these advantages come with trade-offs, including more difficult joins between records and less rigid enforcement of data integrity compared with traditional relational databases.
+
+
 ## Data structure
 Each json entry is of the form
 
