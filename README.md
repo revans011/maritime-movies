@@ -63,8 +63,9 @@ Upload the maritime-movies-2026-05-21.json into your chatbot.
 The approach is to edit the maritime-movies-xxxx-xx-xx.json file to establish your own maritime movies database. 
 1. Clone this repository or simply download the .json file.
 3. Open the .json file in a text editor
-4. Paste the new record at the bottom of the file, using this template:
+4. Paste the new record at the bottom of the file (don't forget the preceding comma), using this template:
 
+```json
 {
     "title": "",
     "year": null,
@@ -78,6 +79,7 @@ The approach is to edit the maritime-movies-xxxx-xx-xx.json file to establish yo
     "maritime_connections": "",
     "reflection": ""
 }
+```
 
 Most of the keys in the template record are self explanatory. 
 1. The value of the key *maritime_connections* is a few sentences explaining why you believe the film is a maritime film.
