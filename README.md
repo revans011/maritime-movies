@@ -5,13 +5,11 @@ It uses a NoSQL / Semi-Structured data framework, which are approaches for stori
 
 NoSQL originally meant “No SQL,” but is now more commonly interpreted as “Not Only SQL,” reflecting the idea that these databases complement rather than replace traditional relational databases. NoSQL databases are designed to handle flexible schemas, large-scale data, high-speed access, distributed computing environments, and complex or evolving data structures that may not fit neatly into fixed tables. 
 
-NoSQL systems generally fall into four categories, with the **document model** being one of the most common forms of semi-structured data storage. In document databases, data are stored as self-contained documents, usually in a JSON-like format, allowing information to be nested and vary from one record to another. For example, a patient record may include an embedded list of clinical visits and measurements within a single document rather than requiring multiple linked tables. 
-
-Document databases are commonly used for clinical records, user profiles, configuration files, and omics metadata. Popular examples include MongoDB and CouchDB. Their primary strengths are schema flexibility, natural handling of nested data, and straightforward integration with JSON-based applications. However, these advantages come with trade-offs, including more difficult joins between records and less rigid enforcement of data integrity compared with traditional relational databases.
+The JSON format was used for this movie database. Although it is meant to be uploaded to a chatbot and then queried, it can easily converted to a .CSV file using python, and then uploaded into a spreadsheet. 
 
 
-## Data structure
-Each json entry is of the form
+# Data structure
+Each json entry is of the form presented in this example:
 
 ```json
 {
@@ -37,14 +35,54 @@ Each json entry is of the form
   }
 ```
 
-### Sub-subsection 1.1.1
-More text.
 
-# Usage
-Text here.
+# Usage and Idea for prompts
+
+Upload the maritime-movies-2026-05-21.json into your chatbot. 
+
+## Casual Queries
+
+1. List all the submarine films in the database.
+2. Which films are from the 1940s?
+3. What films did John Ford direct?
+4. Who are the most frequently appearing actors across the database?
+5. What studios produced the most maritime films?
+
+## Analytical Queries
+
+1. Organize the films by maritime subgenre (submarine warfare, naval battle, merchant marine,
+   sailing/age of sail, etc.) and list the titles under each category.
+2. Give me a chronological tour of the database by decade, identifying one or two representative
+   or standout films from each era and noting how the maritime themes evolved over time.
+3. Which films deal with the tension between individual survival and collective duty at sea?
+4. Are there patterns in which studios or directors returned repeatedly to maritime themes?
+5. How does the representation of the enemy change across the World War II films in the database —
+   from early wartime productions to postwar retrospectives?
 
 # Adding movies
-The approach is to edit the maritime-movies.json file to establish your own maritime movies database. 
+The approach is to edit the maritime-movies-xxxx-xx-xx.json file to establish your own maritime movies database. 
 1. Clone this repository or simply download the .json file.
 3. Open the .json file in a text editor
-4. Paste the new
+4. Paste the new record at the bottom of the file, using this template:
+
+{
+    "title": "",
+    "year": null,
+    "watch_link": "",
+    "release_date": "",
+    "studio": "",
+    "director": "",
+    "lead_actors": [],
+    "awards": [],
+    "music": [],
+    "maritime_connections": "",
+    "reflection": ""
+}
+
+Most of the keys in the template record are self explanatory. 
+1. The value of the key *maritime_connections* is a few sentences explaining why you believe the film is a maritime film.
+2. The key  *reflection* is your thoughts about the film and any interesting facts you might want to include.
+3. *year* and *release_date* are essentially the same and are there together as a legacy issue.
+4. *music* is whatever is interesting, often the composer or music director.
+
+A trick is to paste the blank template into a chatbot along with the name of the movie and have it fill in the key values, then double check them. AI can often writes insightful reflections but it is better to add some of you own thoughts. 
