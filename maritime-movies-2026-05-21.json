@@ -4755,7 +4755,7 @@
       "Score composed by Alexandre Desplat"
     ],
     "maritime_connections": "French submarine thriller (Le Chant du loup) about a sonar operator with perfect acoustic memory whose error may have triggered an international incident. The film follows a French nuclear submarine's desperate mission to avert a nuclear war.",
-    "reflection": null
+    "reflection": "This is an interesting film because it put France at the center of a nuclear war instead of the usual instigator, the US."
   },
   {
     "title": "The Woman in Cabin 10",
@@ -5500,10 +5500,12 @@
       "Based on the 1894 novella The Ebb-Tide by Robert Louis Stevenson and Lloyd Osbourne",
       "Three derelict sailors commandeer a schooner (the Golden State) whose captain and crew have died of smallpox",
       "Set in the South Seas; voyage from Tehua toward Peru, then wrecked on a remote island",
-      "The ship's cargo of champagne becomes the object of a scheme to sell it and pocket the proceeds",
+      "The ship's cargo of champagne becomes the object of a marine insurance fraud because it is really water, in one version",
       "The daughter of the deceased captain stows away aboard the schooner"
     ],
-    "reflection": "Paramount's third filming of the Stevenson/Osbourne novella, and the first in color — the Technicolor photography was the main selling point. A dour, sun-scorched South Seas moral tale, more psychologically dark than the South Seas adventure genre usually allowed. Oscar Homolka (in his American film debut) dominates; Lloyd Nolan's quietly menacing turn as the island's self-appointed 'god' is the critical consensus highlight. Frances Farmer's only color film. The maritime premise — desperate men taking a dead captain's plague ship as their own — is genuinely nightmarish in concept, though the execution goes full melodrama. Worth noting: this is the same source material adapted by the French the year before as Les Mutinés de l'Elseneur (not to be confused with the Elsinore film below)."
+    "reflection":[ "Paramount's third filming of the Stevenson/Osbourne novella, and the first in color — the Technicolor photography was the main selling point. A dour, sun-scorched South Seas moral tale, more psychologically dark than the South Seas adventure genre usually allowed. Oscar Homolka (in his American film debut) dominates; Lloyd Nolan's quietly menacing turn as the island's self-appointed 'god' is the critical consensus highlight. Frances Farmer's only color film. The maritime premise — desperate men taking a dead captain's plague ship as their own — is genuinely nightmarish in concept, though the execution goes full melodrama. Worth noting: this is the same source material adapted by the French the year before as Les Mutinés de l'Elseneur (not to be confused with the Elsinore film below).",
+                   "There are several versions of this film, including one from 1998 on Tubi at https://link.tubi.tv/ibcC9NYbR3b. It is called The Ebb-Tide and stars Robbie Coltrane, best known for playing Rubeus Hagrid in the Harry Potter series." 
+  ]
   },
   {
     "title": "Swept Away",
