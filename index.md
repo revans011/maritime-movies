@@ -4,7 +4,7 @@
 
 This site contains the following document:
 
-- [The Maritime Movie Catalog <-- this is why you are here](docs/maritime_movies.md)
+- [The Maritime Movie Catalog <-- this is why you are here](docs/maritime-movies-2026-05-21.json)
 
 - [What is a Maritime Movie?](docs/what_is_a_maritime_movie.md)
 - [Books about Maritime Movies](docs/books_about_movies.md)

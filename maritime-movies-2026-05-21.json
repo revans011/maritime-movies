@@ -219,7 +219,7 @@
   {
     "title": "Action in the North Atlantic",
     "year": 1943,
-    "watch_link": null,
+    "watch_link": "https://youtu.be/b30JSlrbpxw?si=PHc1LssQ2DeY8jR0",
     "release_date": "May 21, 1943",
     "studio": "Warner Bros.",
     "director": "Lloyd Bacon",
@@ -1216,18 +1216,31 @@
     "reflection": null
   },
   {
-    "title": "Drifters",
-    "year": 1929,
-    "watch_link": null,
-    "release_date": "1929",
-    "studio": null,
-    "director": null,
-    "lead_actors": null,
-    "awards": null,
-    "music": null,
-    "maritime_connections": null,
-    "reflection": null
-  },
+  "title": "Drifters",
+  "year": 1929,
+  "watch_link": "https://www.youtube.com/watch?v=RUOiTNnNFvI",
+  "release_date": "November 10, 1929",
+  "studio": "New Era Films / Empire Marketing Board Film Unit",
+  "director": "John Grierson",
+  "lead_actors": [
+    "Non-fiction; cast consists of actual North Sea herring fishermen (unnamed)"
+  ],
+  "awards": [
+    "Critically and commercially successful on release; foundational to British documentary canon",
+    "Preserved and championed by the BFI; featured in major BFI retrospectives",
+    "The Grierson Awards (UK's premier documentary prize) are named in the director's honor"
+  ],
+  "music": "Silent film; no original score. Notable modern commission: Jason Singh (sound artist/beatboxer) created a live vocal score for BFI in 2012, released on BFI Blu-ray paired with Battleship Potemkin",
+  "maritime_connections": [
+    "Documents the complete cycle of a North Sea herring fishing voyage — departure from a Scottish village (Lerwick, Shetlands), setting nets, surviving a storm, hauling catch, and returning to port",
+    "Filmed on location in Lerwick (Shetland Islands), Lowestoft, Yarmouth, and at sea",
+    "The 'drifters' of the title are drift-net fishing vessels — steam trawlers using long curtain nets hung vertically in the water",
+    "Follows working fishermen (not actors) aboard an actual herring boat",
+    "Depicts the full labor of commercial sea fishing: coal-fired engines, net-handling, fish gutting and barreling, and the fish market",
+    "Influenced by Eisenstein's montage; premiered on the same night as the British premiere of Battleship Potemkin (November 10, 1929)"
+  ],
+  "reflection": "The foundational text of British documentary film and arguably of documentary cinema itself — Grierson, who coined the word 'documentary,' here put his theory into practice. The film is less a record than a poem: Eisenstein's montage rhythms applied to the humblest of maritime labor. The North Sea herring fishermen are treated with the same epic dignity Eisenstein gave his sailors, but without the grand heroics — Grierson's men are humble, skilled, and ordinary in the most admirable sense. For a maritime film database, this is essential: there is no more serious or sustained cinematic attention to the reality of commercial fishing in the silent era. A few notes on the fields: the premiere was at the London Film Society on November 10, 1929, produced by the Empire Marketing Board Film Unit via New Era Films, with cinematography by Basil Emmott. The BFI commissioned Jason Singh to create a new soundtrack in 2012 for a Blu-ray release paired with Eisenstein's Battleship Potemkin. There are no formal awards in the modern sense — the film predates competitive documentary prizes — but the Grierson Awards, the UK's premier documentary prize, are named in his honor precisely because of this film's legacy."
+},
   {
     "title": "Dunkirk",
     "year": 1958,
@@ -3246,7 +3259,7 @@
   {
     "title": "Souls at Sea",
     "year": 1937,
-    "watch_link": null,
+    "watch_link": "https://youtu.be/L_2bHHzGTXw?si=2ifhxDJXNohHqpzm",
     "release_date": "September 3, 1937 (USA)",
     "studio": "Paramount Pictures",
     "director": "Henry Hathaway",
@@ -3972,7 +3985,7 @@
       "Score composed by Richard Hageman"
     ],
     "maritime_connections": "Adapted from four one-act plays by Eugene O'Neill about the lives of merchant sailors aboard a tramp steamer during the early days of WWII. A lyrical, melancholy portrait of men bound to the sea, directed by John Ford in expressionistic black and white.",
-    "reflection": null
+    "reflection": "the dissynchrony between the motion of the ship and the rear projection of the sea is disconcerting. On the other hand, young John Wayne has natural charisma."
   },
   {
     "title": "The Meg",
@@ -4445,9 +4458,33 @@
     "reflection": null
   },
   {
+  "title": "The Seas Beneath",
+  "year": 1931,
+  "watch_link": null,
+  "release_date": "January 30, 1931 (US theatrical, New York City)",
+  "studio": "Fox Film Corporation",
+  "director": "John Ford",
+  "lead_actors": [
+    "George O'Brien as Cmdr. Bob Kingsley",
+    "Marion Lessing as Anna Marie Von Steuben (German spy)",
+    "Mona Maris as Lolita",
+    "Walter C. Kelly as Chief Costello",
+    "Warren Hymer as Lug Harrigan",
+    "Steve Pendleton as Lt. Mitchell",
+    "Henry Victor as Cmdr. Ernst Von Steuben (German U-boat commander)",
+    "John Loder as German officer"
+  ],
+  "awards": null,
+  "music": [
+    "No independently commissioned score; typical of early Fox talkies, musical elements were handled in-house by the studio's sound department"
+  ],
+  "maritime_connections": "Among the most authentically maritime films of the early sound era and one of the first genuine naval war films in Hollywood history. The entire plot centers on a WWI 'Q-ship' — a heavily armed vessel disguised as a harmless merchant schooner — sent into the Atlantic to lure and destroy a German U-boat. Ford secured the full cooperation of the U.S. Navy, which supplied an actual submarine for filming; cameras were mounted on hulls and shot at sea rather than on studio sets, making it a landmark in authentic on-water filmmaking. Ford's deep personal identification with the Navy is evident throughout — he would go on to serve as a commander in the Navy's photographic unit during WWII and is buried with the designation 'Admiral John Ford' on his tombstone. The film is part of a sustained strand of naval films Ford made at Fox in this period alongside Men Without Women (1930) and Salute (1929).",
+  "reflection": "A few notes worth flagging. Ford was famously annoyed by the casting of Marion Lessing as the female lead, telling Peter Bogdanovich that the studio head had imposed her on the production because he thought she spoke German — which she didn't — and that her inexperience caused repeated problems on set. The screenplay was written by Dudley Nichols, who would go on to become one of Ford's most important long-term collaborators on films like The Informer and Stagecoach. Technically the production is notable for being one of the first authentic maritime war pictures, with everything staged on real ships and submarines loaned from the Navy — a genuine rarity in the studio era, when ocean scenes were almost universally faked against painted backdrops."
+},
+  {
     "title": "The Seas Shall Not Have Them",
     "year": 1954,
-    "watch_link": "https://www.imdb.com/find/?q=The%20Seas%20Shall%20Not%20Have%20Them%201954",
+    "watch_link": "https://youtu.be/9OrEMpKkJPs?si=b9gcbP57_0Q5AqaN",
     "release_date": "November 1, 1954 (UK)",
     "studio": "Rank Organisation",
     "director": "[Lewis Gilbert](https://www.imdb.com/find/?q=Lewis%20Gilbert)",
@@ -4510,18 +4547,26 @@
     "reflection": null
   },
   {
-    "title": "The Ship That Died of Shame",
-    "year": 1955,
-    "watch_link": null,
-    "release_date": "1955",
-    "studio": null,
-    "director": null,
-    "lead_actors": null,
-    "awards": null,
-    "music": null,
-    "maritime_connections": null,
-    "reflection": null
-  },
+  "title": "The Ship That Died of Shame",
+  "year": 1955,
+  "watch_link": null,
+  "release_date": "1955-04-01",
+  "studio": "Ealing Studios",
+  "director": "Basil Dearden",
+  "lead_actors": [
+    "Richard Attenborough",
+    "George Baker",
+    "Bill Owen",
+    "Virginia McKenna"
+  ],
+  "awards": [
+    "No major competitive awards identified",
+    "Noted as a respected post-war British Ealing drama and adapted from a story by Nicholas Monsarrat"
+  ],
+  "music": "William Alwyn",
+  "maritime_connections": "Set aboard Royal Navy Motor Gun Boat 1087, the film centers on the post-war fate of a wartime vessel and her crew. The story explores naval service, maritime identity, smuggling across the English Channel, and the symbolic relationship between sailors and their ship. Based on a story by naval author Nicholas Monsarrat, it reflects post-World War II maritime culture and the transition of naval personnel to civilian life.",
+  "reflection": "Unlike many maritime adventure films that celebrate the sea as a place of freedom or heroism, this film presents the vessel as a moral actor whose decline mirrors the ethical decay of her crew. The ship becomes more than transportation—it is a repository of wartime loyalty and honor, making the film a somber meditation on post-war disillusionment and the loss of maritime purpose."
+},
   {
     "title": "The Silent Enemy",
     "year": 1958,
@@ -5235,7 +5280,7 @@
       "Score composed by James Newton Howard"
     ],
     "maritime_connections": "Post-apocalyptic sci-fi in which the polar ice caps have melted and the entire Earth is covered by ocean. A mutant loner sails a trimaran across this endless sea, pursued by piratical 'Smokers.' All action takes place on or in the water.",
-    "reflection": null
+    "reflection": "This film had a record-breaking budget at the time, and did not live up to the hype. The director and actor felt, and still feel, it was a better film than the reviews suggested."
   },
   {
     "title": "We Dive at Dawn",
@@ -5422,5 +5467,381 @@
     ],
     "maritime_connections": "Inexperienced officers are given command of a new experimental steam-powered ship during WWII. The condenser was experimental, not the steam.",
     "reflection": "This movie pairs with _The Wackiest Ship in the Army_ (1960). In both movies, skippers were set up with inexperienced crew on unusual ships, and made it work. This movie has an incredible cast, including young Lee Marvin and Charles Bronson, who don’t get opening credits. It’s worth watching just to see who you can recognize."
+  },
+  {
+    "title": "Sons of the Sea",
+    "year": 1939,
+    "watch_link": "https://youtu.be/1xlZmh-RhxU?si=YSIBCshDxDHW51T3",
+    "release_date": "December 23, 1939",
+    "studio": "British Consolidated / Grand National Pictures",
+    "director": "Maurice Elvey",
+    "lead_actors": ["Leslie Banks", "Kay Walsh", "Mackenzie Ward", "Cecil Parker"],
+    "awards": null,
+    "music": null,
+    "maritime_connections": [
+      "Set at Britannia Royal Naval College, Dartmouth",
+      "Espionage plot centered on stolen naval secrets ('secret enemy minefields')",
+      "Captain of the college and his son, a naval cadet, are central characters",
+      "Shot partially on location at the Royal Naval College"
+    ],
+    "reflection": "A now-obscure British spy thriller notable primarily as a technical curiosity: it was shot entirely in Dufaycolor, a British color process used on no other feature film. The maritime setting is largely incidental to a WWII-eve espionage plot — the Nazis are never named as such — and the film ends with a close-up of the king and a text card exhorting duty. Of historical interest as a window into the anxious summer of 1939 at Britain's principal naval officer training college. Trivia worth noting: the cast includes an Ian Fleming in a bit part as a naval intelligence officer — not the Ian Fleming, but a coincidence the databases have puzzled over."
+  },
+  {
+    "title": "Ebb Tide",
+    "year": 1937,
+    "watch_link": null,
+    "release_date": "November 26, 1937",
+    "studio": "Paramount Pictures",
+    "director": "James P. Hogan",
+    "lead_actors": ["Oscar Homolka", "Frances Farmer", "Ray Milland", "Lloyd Nolan", "Barry Fitzgerald"],
+    "awards": null,
+    "music": "Victor Young",
+    "maritime_connections": [
+      "Based on the 1894 novella The Ebb-Tide by Robert Louis Stevenson and Lloyd Osbourne",
+      "Three derelict sailors commandeer a schooner (the Golden State) whose captain and crew have died of smallpox",
+      "Set in the South Seas; voyage from Tehua toward Peru, then wrecked on a remote island",
+      "The ship's cargo of champagne becomes the object of a scheme to sell it and pocket the proceeds",
+      "The daughter of the deceased captain stows away aboard the schooner"
+    ],
+    "reflection": "Paramount's third filming of the Stevenson/Osbourne novella, and the first in color — the Technicolor photography was the main selling point. A dour, sun-scorched South Seas moral tale, more psychologically dark than the South Seas adventure genre usually allowed. Oscar Homolka (in his American film debut) dominates; Lloyd Nolan's quietly menacing turn as the island's self-appointed 'god' is the critical consensus highlight. Frances Farmer's only color film. The maritime premise — desperate men taking a dead captain's plague ship as their own — is genuinely nightmarish in concept, though the execution goes full melodrama. Worth noting: this is the same source material adapted by the French the year before as Les Mutinés de l'Elseneur (not to be confused with the Elsinore film below)."
+  },
+  {
+    "title": "Swept Away",
+    "year": 1974,
+    "watch_link": null,
+    "release_date": "December 19, 1974",
+    "studio": "Medusa Distribuzione (Italy)",
+    "director": "Lina Wertmüller",
+    "lead_actors": ["Giancarlo Giannini", "Mariangela Melato"],
+    "awards": [
+      "Italian Academy (David di Donatello): multiple nominations",
+      "Named to numerous international critics' best-of lists",
+      "Wertmüller went on to be the first woman nominated for the Academy Award for Best Director (for Seven Beauties, 1976)"
+    ],
+    "music": "Piero Piccioni",
+    "maritime_connections": [
+      "Opens on a luxury yacht cruising off Sardinia in the Mediterranean",
+      "The class and gender dynamic of ship owner vs. Communist deckhand drives the entire first act",
+      "The two protagonists are marooned when a dinghy goes adrift — the sea literally removes them from civilization",
+      "The Mediterranean setting — sun, water, isolation — is inseparable from the film's political and erotic allegory"
+    ],
+    "reflection": "Wertmüller's most famous and most controversial film. The sea functions not merely as backdrop but as the instrument of social inversion: the yacht represents capitalist leisure, and being swept from it into the pure wilderness of a deserted island reverses the power hierarchy between the wealthy Raffaella and the Communist sailor Gennarino. Whether the resulting dynamic constitutes allegory, satire, or something more troubling has been debated for fifty years. The full Italian title — Travolti da un insolito destino nell'azzurro mare d'agosto ('Swept Away by an Unusual Destiny in the Blue Sea of August') — is itself a kind of ironic poem. For a maritime film database, this is one of the few works where the sea is doing actual philosophical work."
+  },
+  {
+    "title": "The Black Swan",
+    "year": 1942,
+    "watch_link": null,
+    "release_date": "December 4, 1942",
+    "studio": "Twentieth Century-Fox",
+    "director": "Henry King",
+    "lead_actors": ["Tyrone Power", "Maureen O'Hara", "Laird Cregar", "Thomas Mitchell", "George Sanders", "Anthony Quinn"],
+    "awards": [
+      "Academy Award — WON: Best Cinematography, Color (Leon Shamroy)",
+      "Academy Award — Nominated: Best Music, Scoring of a Dramatic or Comedy Picture (Alfred Newman)",
+      "Academy Award — Nominated: Best Effects, Special Effects"
+    ],
+    "music": "Alfred Newman",
+    "maritime_connections": [
+      "Set in the Caribbean, 1674; centers on reformed pirates in the era of Sir Henry Morgan's governorship of Jamaica",
+      "The ship the Black Swan is the villain Captain Leech's vessel",
+      "Pirate raids, sea chases, and ship-to-ship combat are central to the action",
+      "Based on Rafael Sabatini's 1932 novel; produced with careful attention to period maritime atmosphere",
+      "Shot partly during the early WWII period; studio conserved film stock by limiting takes to aid the war effort"
+    ],
+    "reflection": "The peak of the Hollywood pirate swashbuckler in Technicolor. Leon Shamroy's cinematography rightfully won the Oscar — the reds and blues of Caribbean sea and sky are extraordinary for 1942. Alfred Newman's score is equally rousing. The moral architecture is cheerfully antique: Tyrone Power's pirate hero is introduced slapping Maureen O'Hara, who promptly bites his lip — their romance develops from there. The supporting cast is absurdly stacked: three future Supporting Actor Oscar winners (Thomas Mitchell, George Sanders, Anthony Quinn) are in it simultaneously. Tonally closer to a theme park ride than Treasure Island, but a magnificent one."
+  },
+  {
+    "title": "City Beneath the Sea",
+    "year": 1953,
+    "watch_link": null,
+    "release_date": "April 21, 1953",
+    "studio": "Universal International Pictures",
+    "director": "Budd Boetticher",
+    "lead_actors": ["Robert Ryan", "Anthony Quinn", "Mala Powers", "Suzan Ball", "Woody Strode"],
+    "awards": null,
+    "music": "Joseph Gershenson (and Henry Mancini, Milton Rosen, Herman Stein per some credits)",
+    "maritime_connections": [
+      "Salvage divers Brad and Tony are hired to find the sunken ship Lady Luck and its million dollars in gold, off Jamaica",
+      "Dives to the sunken city of Port Royal, destroyed by earthquake in 1692",
+      "Charter boat skippered by female captain Terry McBride (Mala Powers)",
+      "Underwater sequences and salvage diving are central to plot",
+      "Based loosely on Harry E. Rieseberg's book Port Royal: The Ghost City Beneath the Sea"
+    ],
+    "reflection": "A breezy, low-stakes Technicolor adventure from Budd Boetticher's Universal contract period — notable mainly for its cast (Ryan and Quinn have genuine chemistry as rival diving partners) and its historical hook: Port Royal, the real-life pirate haven sunk by the 1692 Jamaica earthquake, is a legitimately fascinating setting. The underwater photography is modest but the premise is evocative. Boetticher would go on to make far more distinguished Westerns; this is journeyman work with a strong supporting cast. The Henry Mancini credit is early-career background scoring."
+  },
+  {
+    "title": "Mystery Sea Raider",
+    "year": 1940,
+    "watch_link": "https://tubitv.com/movies/100021055/the-mutiny-of-the-elsinore",
+    "release_date": "August 9, 1940",
+    "studio": "Paramount Pictures",
+    "director": "Edward Dmytryk",
+    "lead_actors": ["Carole Landis", "Henry Wilcoxon", "Onslow Stevens"],
+    "awards": null,
+    "music": "Albert Hay Malotte, Victor Young",
+    "maritime_connections": [
+      "A Nazi spy commandeers an American freighter (SS Apache) to serve as a mother ship for German submarines in the Atlantic",
+      "Begins with the sinking of a British passenger vessel (SS Aleria) by a submarine",
+      "Captain Jimmy Madden (Wilcoxon) owns the freighter that is hijacked",
+      "Depicts early-war U-boat operations and surface support vessels",
+      "Costumes by Edith Head"
+    ],
+    "reflection": "A pre-Pearl Harbor propaganda piece from Paramount, directed by the young Edward Dmytryk (later of The Caine Mutiny fame). The maritime hook is genuinely interesting: the concept of a neutral American merchant vessel hijacked to serve as a U-boat tender was a real concern in 1940, and the film articulates the threat clearly. Carole Landis carries the film; Henry Wilcoxon is a serviceable hero. Dmytryk was married to Carole's friend at the time, lending the production a certain personal energy. Watch link noted is for Tubi, where the film is listed; the Tubi link in your note was for Mutiny of the Elsinore — you may want to confirm the correct Tubi URL for this one."
+  },
+  {
+    "title": "Convoy",
+    "year": 1940,
+    "watch_link": null,
+    "release_date": "July 5, 1940 (UK); January 3, 1941 (US)",
+    "studio": "Ealing Studios",
+    "director": "Pen Tennyson",
+    "lead_actors": ["Clive Brook", "John Clements", "Edward Chapman", "Judy Campbell"],
+    "awards": null,
+    "music": "Ernest Irving",
+    "maritime_connections": [
+      "Centers on a Royal Navy cruiser assigned to escort North Sea convoys between America and Britain",
+      "The convoy system, U-boat threat, and engagement with a German pocket battleship are the central action",
+      "Director Tennyson served on HMS Valorous on convoy duty while making the film to gain authenticity",
+      "Dedicated 'in all gratitude to the Officers and Men of the Royal and Merchant Navies'",
+      "Features both studio tank model work and real footage of cruisers and destroyers at sea",
+      "Early Stewart Granger appears in an unbilled role"
+    ],
+    "reflection": "Pen Tennyson's final film — he died in a Fleet Air Arm crash in 1941, aged 28, having directed only three pictures. As a piece of wartime propaganda made while the war was actually happening, Convoy has an urgency that later recreations lack. The opening dedication to the Royal and Merchant Navies was sincere: the director had just come off real convoy duty. The romantic subplot (the first officer once ran off with the captain's wife) is thinly written, but the action at sea and the stoic British crew characterization are genuinely compelling. A great-grandson of the Poet Laureate directing North Sea war dramas is itself a poetic footnote."
+  },
+  {
+    "title": "We Dive at Dawn",
+    "year": 1943,
+    "watch_link": null,
+    "release_date": "April 15, 1943",
+    "studio": "Gainsborough Pictures / Gaumont British",
+    "director": "Anthony Asquith",
+    "lead_actors": ["John Mills", "Eric Portman"],
+    "awards": null,
+    "music": "Louis Levy",
+    "maritime_connections": [
+      "Follows the crew of HMS submarine Sea Tiger on a mission to sink the German battleship Brandenburg",
+      "Depicts shore leave, submarine operations, torpedo attacks, and evasion of destroyers in the Baltic",
+      "The submarine runs out of fuel and must steal diesel from a Danish port while under pursuit",
+      "Captures both the technical and the domestic lives of submariners with unusual realism for its era",
+      "Described by critics as 'the British Das Boot of its day'"
+    ],
+    "reflection": "One of the finest British submarine films ever made, and arguably Anthony Asquith's best wartime work. John Mills is the skipper, but Eric Portman's tortured Yorkshire rating — bitter, focused, inwardly broken by his wife's departure — is the emotional center. The screenplay by J.B. Williams, Val Valentine, and Frank Launder unusually balances character depth with technical authenticity. The Baltic fuel-theft sequence is genuinely tense. The film avoids easy heroics; its submariners are human beings with families and problems who happen to also be doing extraordinary things. Available on Tubi."
+  },
+  {
+    "title": "The Mutiny of the Elsinore",
+    "year": 1937,
+    "watch_link": "https://tubitv.com/movies/100021055/the-mutiny-of-the-elsinore",
+    "release_date": "September 3, 1937",
+    "studio": "John Argyle Productions / Associated British Film Distributors",
+    "director": "Roy Lockwood",
+    "lead_actors": ["Paul Lukas", "Lyn Harding", "Kathleen Kelly", "Clifford Evans"],
+    "awards": null,
+    "music": "Guy Jones",
+    "maritime_connections": [
+      "Based on Jack London's novel The Mutiny of the Elsinore (published as Captain Walter Summers)",
+      "Set aboard a four-masted sailing vessel bound for San Francisco",
+      "A writer-passenger (Lukas) is drawn into a mutiny against the captain by a brutal mate and a crew of criminals",
+      "Previously filmed as a silent in 1920 and in French in 1936",
+      "The sailing ship itself — rigging, decks, the hierarchy of mate and captain — is the primary setting"
+    ],
+    "reflection": "A low-budget British adaptation of Jack London's nautical thriller that punches well above its budget, partly because the source material is strong and partly because Lyn Harding's physically imposing performance as the brutal Mate Pike elevates the whole picture. Paul Lukas in a fancy suit among roughnecks is an odd casting choice, but it works. The sailing ship photography is the film's real asset: this is one of the few 1930s films that actually depicts an era of sail with any authenticity. Director Roy Lockwood was better known as a radio broadcaster and yachting journalist, which may explain why the seamanship details hold up."
+  },
+  {
+    "title": "A Night to Remember",
+    "year": 1958,
+    "watch_link": null,
+    "release_date": "July 3, 1958",
+    "studio": "The Rank Organisation",
+    "director": "Roy Ward Baker",
+    "lead_actors": ["Kenneth More", "Michael Goodliffe", "Laurence Naismith", "Kenneth Griffith", "David McCallum", "Honor Blackman"],
+    "awards": [
+      "Golden Globe Award — WON: Best Foreign Film (1959, Samuel Goldwyn International Award)",
+      "BAFTA nomination (1959)",
+      "National Board of Review: Top Foreign Films (1958)",
+      "Mar del Plata Film Festival: Nominated, Best Film"
+    ],
+    "music": "William Alwyn",
+    "maritime_connections": [
+      "Dramatizes the sinking of RMS Titanic on April 14–15, 1912, told primarily from the perspective of Second Officer Charles Lightoller (Kenneth More)",
+      "Producer William MacQuitty used actual Titanic blueprints to build sets; Titanic's fourth officer Joseph Boxhall served as technical adviser",
+      "Regarded by maritime historians as the most accurate dramatization of the disaster prior to the 1985 discovery of the wreck",
+      "Shot at Pinewood Studios, with the lifeboat sequences filmed at Ruislip Lido at 2 a.m. in November",
+      "Criterion Collection Edition #7; widely considered to surpass James Cameron's 1997 Titanic for historical fidelity"
+    ],
+    "reflection": "The definitive Titanic film — and, many would argue, the definitive maritime disaster film. Baker's approach is documentary in instinct: no single hero, no invented love story, just the machinery of catastrophe unfolding with terrible inevitability. Kenneth More's Lightoller is not a protagonist so much as a moral anchor. The film was a box-office disappointment on release but immediately recognized by critics as something exceptional; the Criterion Collection's early embrace confirmed its status. Cameron's 1997 film borrowed extensively from it. The fact that Boxhall himself was on set — a man who had actually stood on the tilting deck — gives the film an uncanny gravity."
+  },
+  {
+    "title": "Onionhead",
+    "year": 1958,
+    "watch_link": null,
+    "release_date": "October 1, 1958",
+    "studio": "Warner Bros. Pictures",
+    "director": "Norman Taurog",
+    "lead_actors": ["Andy Griffith", "Walter Matthau", "Felicia Farr", "Erin O'Brien", "Joey Bishop", "Claude Akins"],
+    "awards": null,
+    "music": "David Buttolph",
+    "maritime_connections": [
+      "Set aboard a US Coast Guard ship based in Boston during World War II, 1941",
+      "Filmed on location at the Coast Guard station in Alameda, CA, and aboard USCGC Yamacraw and USCGC Heather",
+      "Centers on life as an enlisted cook aboard a Coast Guard cutter",
+      "Based on a novel by William R. Scott (pseudonym Weldon Hill) drawn from his own WWII Coast Guard service"
+    ],
+    "reflection": "A notorious flop that, by Andy Griffith's own account, drove him into television — and thus gave the world The Andy Griffith Show. Marketed as a No Time for Sergeants at sea, it's actually a gloomier comedy-drama with themes of theft and adultery that didn't land with audiences expecting easy laughs. Walter Matthau steals every scene he's in, deploying his basset-hound pathos in one of his earliest comic film roles. The film is historically interesting as a portrait of wartime Coast Guard life and as a document of Griffith's failed big-screen phase. Available on Tubi."
+  },
+  {
+    "title": "The Gallant Hours",
+    "year": 1960,
+    "watch_link": null,
+    "release_date": "June 22, 1960",
+    "studio": "Cagney-Montgomery Productions / United Artists",
+    "director": "Robert Montgomery",
+    "lead_actors": ["James Cagney", "Dennis Weaver", "Ward Costello", "Richard Jaeckel"],
+    "awards": null,
+    "music": "Roger Wagner (choral score); Ward Costello (theme song)",
+    "maritime_connections": [
+      "Semi-documentary account of Vice Admiral William F. 'Bull' Halsey Jr.'s five weeks commanding US naval forces in the South Pacific, culminating in the Allied victory at Guadalcanal",
+      "No combat scenes — the entire film takes place in command posts, ships' bridges, and war rooms",
+      "The US Navy cooperated fully with production; the film closes with a formal acknowledgment to the Navy and Marine Corps",
+      "Montgomery himself had served under Halsey during WWII",
+      "Brett Halsey (playing a lieutenant) was the admiral's great-nephew"
+    ],
+    "reflection": "A genuinely unusual war film: two hours with no combat, no guns firing, no ships exploding — just a man making decisions and their consequences. Cagney's Halsey is a masterclass in quiet authority; he reportedly avoided Halsey's mannerisms deliberately to find the inner man instead. Robert Montgomery's direction is spare and Bressonian in its restraint. The male choral score — angelic, slightly unearthly — either elevates the film into something mythic or becomes insufferable depending on your tolerance. Robert Montgomery had served under Halsey himself, and the film feels like a personal tribute. It was his last feature. Available on Tubi."
+  },
+  {
+    "title": "Submarine Seahawk",
+    "year": 1958,
+    "watch_link": null,
+    "release_date": "December 1958",
+    "studio": "Golden State Productions / American International Pictures",
+    "director": "Spencer Gordon Bennet",
+    "lead_actors": ["John Bentley", "Brett Halsey", "Wayne Heffley", "Steve Mitchell"],
+    "awards": null,
+    "music": "Alexander Laszlo",
+    "maritime_connections": [
+      "WWII Pacific submarine on a secret reconnaissance mission to locate a Japanese fleet",
+      "Crew unrest subplot driven by the commander withholding orders — a classic submarine drama tension",
+      "Released as a double feature with Paratroop Command",
+      "Incorporates stock footage from Destination Tokyo (1943) and Air Force (1943)",
+      "Spencer Gordon Bennet was a veteran action director who began making features in 1921"
+    ],
+    "reflection": "A modest AIP B-picture in the crowded 1950s submarine genre, notable mainly for its position at the intersection of several threads: it was the last film Alex Gordon produced for AIP, it reuses footage from Destination Tokyo (also in this database), and Brett Halsey — playing the lieutenant — was the actual great-nephew of Admiral Bull Halsey, who is the subject of The Gallant Hours (also in this database). The film itself is routine, though the climactic air assault sequence is surprisingly effective. Primarily of interest to completists of the WWII submarine film cycle."
+  },
+  {
+    "title": "Attack on the Iron Coast",
+    "year": 1968,
+    "watch_link": null,
+    "release_date": "1967 (UK); June 5, 1968 (US)",
+    "studio": "Oakmont Productions / Mirisch Productions / United Artists",
+    "director": "Paul Wendkos",
+    "lead_actors": ["Lloyd Bridges", "Andrew Keir", "Sue Lloyd", "Mark Eden", "Maurice Denham"],
+    "awards": null,
+    "music": "Gerard Schurmann",
+    "maritime_connections": [
+      "Based on Operation Chariot (March 1942), the British commando raid on the Saint-Nazaire dry dock in Nazi-occupied France",
+      "A Canadian major (Bridges) leads commandos in ramming a destroyer packed with explosives into the dock gate",
+      "The dry dock target was the only facility capable of servicing large German battleships on the Atlantic coast",
+      "Maritime engineering is central: the plan involves converting a decommissioned destroyer into a ship bomb",
+      "Authentic uniforms, weaponry, and period naval detail noted by reviewers"
+    ],
+    "reflection": "A solid, underrated Anglo-American WWII action film inspired by one of the most audacious maritime operations of the war. The real Operation Chariot — a destroyer loaded with explosives rammed into the Normandie dry dock at Saint-Nazaire — destroyed the only Atlantic facility capable of servicing the Tirpitz; the Germans didn't grasp the true purpose until the ship exploded hours after docking, killing a group of German officers who had been inspecting it. The film fictionalizes the event but captures its essential outlines. Lloyd Bridges and Andrew Keir have genuine friction as the Canadian commando and his skeptical British counterpart."
+  },
+  {
+    "title": "The Sea Chase",
+    "year": 1955,
+    "watch_link": null,
+    "release_date": "June 4, 1955",
+    "studio": "Warner Bros. Pictures",
+    "director": "John Farrow",
+    "lead_actors": ["John Wayne", "Lana Turner", "David Farrar", "Lyle Bettger", "Tab Hunter", "James Arness"],
+    "awards": null,
+    "music": "Roy Webb",
+    "maritime_connections": [
+      "An anti-Nazi German freighter captain (Wayne) attempts to sail his tramp steamer from Sydney to Germany at the outbreak of WWII, evading Allied warships",
+      "The ship Ergenstrasse is both setting and protagonist — its survival or destruction is the dramatic question",
+      "Based on a novel by Andrew Geer that was itself loosely based on a true voyage",
+      "Filmed on location including Hawaiian waters; William Clothier's cinematography captures the Pacific convincingly",
+      "Depicts the practical realities of a civilian vessel attempting a wartime transocean crossing: coal, ports, neutrality rules"
+    ],
+    "reflection": "The casting of John Wayne as an anti-Nazi German freighter captain remains one of Hollywood's more surreal decisions — he doesn't attempt an accent, and the Duke's physical presence has nothing remotely Teutonic about it. Yet the maritime premise is genuinely compelling: a man loyal to his ship and crew rather than to any ideology, trying to bring them home through a world that has turned against them. Wayne himself blamed director John Farrow for the film's problems. Lana Turner is underused. The film is most interesting as a study in how mid-1950s Hollywood tried to rehabilitate sympathetic German characters only a decade after the war."
+  },
+  {
+    "title": "The Sea Spoilers",
+    "year": 1936,
+    "watch_link": null,
+    "release_date": "September 28, 1936",
+    "studio": "Universal Pictures",
+    "director": "Frank R. Strayer",
+    "lead_actors": ["John Wayne", "Nan Grey", "Fuzzy Knight", "William Bakewell"],
+    "awards": null,
+    "music": "Herman Heller",
+    "maritime_connections": [
+      "Wayne plays a US Coast Guard boatswain stationed in Alaska, battling seal poachers",
+      "The contraband seal-skin trade drives the plot; the Coast Guard vessel Niobe is the primary setting",
+      "Filmed with actual Coast Guard footage of Alaska coastal operations",
+      "Wayne's character is denied promotion in favor of the area commander's son — a maritime version of the B-Western underdog plot",
+      "The first of six B-pictures Wayne made for Universal, the first taking him away from Westerns entirely"
+    ],
+    "reflection": "One of the most obscure entries in the Wayne canon — part of a Universal contract series that repositioned him briefly as a maritime action hero before Stagecoach launched his star career. The Alaska Coast Guard setting is refreshingly specific, and the seal-poaching angle is unusual subject matter for a 1930s B-movie. Wayne is notably good here by the standards of the period, and you can see the screen presence that would soon make him a major star. Worth watching for Wayne completists and anyone interested in the history of the US Coast Guard's enforcement role in Alaskan waters."
+  },
+  {
+    "title": "Blood Alley",
+    "year": 1955,
+    "watch_link": null,
+    "release_date": "October 1, 1955",
+    "studio": "Batjac Productions / Warner Bros. Pictures",
+    "director": "William A. Wellman",
+    "lead_actors": ["John Wayne", "Lauren Bacall", "Paul Fix", "Mike Mazurki", "Anita Ekberg"],
+    "awards": null,
+    "music": "Roy Webb",
+    "maritime_connections": [
+      "Wayne plays an American merchant marine captain who ferries an entire Chinese village down the Yangtze River to Hong Kong, evading Communist Chinese forces",
+      "The river journey — navigating fog, patrols, and shallow water — is the film's main action",
+      "Based on A.S. Fleischman's 1955 novel, itself an adventure tale in the maritime tradition of riverboat escapes",
+      "The first production of Wayne's Batjac company; Wayne both produced and (briefly) directed before Wellman took over",
+      "Robert Mitchum was originally cast but walked off after clashing with Wellman"
+    ],
+    "reflection": "The behind-the-scenes story is more dramatic than what's on screen: Mitchum quit, Wayne stepped in front of the camera and briefly behind it before Wellman (Wild Bill, one of Hollywood's great directors) took over. The result is an anti-Communist adventure with some of the bluntest ideological messaging of Wayne's career — the Communists are cartoons, the Chinese villagers are props. Lauren Bacall, however, is excellent and grounds the film. The Yangtze navigation sequences are genuinely tense. Wellman barely holds it together by his own admission, but the river cinematography by William Clothier is beautiful. Paired with The Sea Chase on the original DVD release — both 1955 Wayne nautical pictures."
+  },
+  {
+    "title": "Passage to Marseille",
+    "year": 1944,
+    "watch_link": null,
+    "release_date": "February 16, 1944",
+    "studio": "Warner Bros. Pictures",
+    "director": "Michael Curtiz",
+    "lead_actors": ["Humphrey Bogart", "Claude Rains", "Michèle Morgan", "Sydney Greenstreet", "Peter Lorre", "Philip Dorn"],
+    "awards": null,
+    "music": "Max Steiner",
+    "maritime_connections": [
+      "Five French convicts escape from Devil's Island by being picked up by a Free French freighter in the Atlantic",
+      "The freighter voyage — across the Atlantic, under German air attack — is the film's central maritime action",
+      "A merchant vessel machine-gunning survivors of a downed German aircraft is the film's most controversial sequence",
+      "The framing device involves a French air base in England, with flashbacks to the sea voyage and escape",
+      "Bogart's character Jean Matrac was a journalist imprisoned for opposing the Munich appeasers"
+    ],
+    "reflection": "Curtiz, Bogart, Rains, Greenstreet, Lorre, and Max Steiner — the Casablanca team reunited, with the Atlantic rather than North Africa as the setting. The film is structurally adventurous (flashbacks within flashbacks within flashbacks, following the Nordhoff/Hall novel's structure) and ideologically fierce; it was made when the war's outcome was still uncertain, and it shows. Claude Rains is, by consensus, the acting highlight. The controversial machine-gunning of German survivors reflects the raw fury of 1944 propaganda rather than any peacetime moral calculus. Cinematography by James Wong Howe."
+  },
+  {
+    "title": "Destination Tokyo",
+    "year": 1943,
+    "watch_link": null,
+    "release_date": "December 15, 1943",
+    "studio": "Warner Bros. Pictures",
+    "director": "Delmer Daves",
+    "lead_actors": ["Cary Grant", "John Garfield", "Alan Hale", "Dane Clark", "John Ridgely"],
+    "awards": [
+      "Academy Award — Nominated: Best Original Story (Steve Fisher)"
+    ],
+    "music": "Franz Waxman",
+    "maritime_connections": [
+      "USS Copperfin departs San Francisco on Christmas Eve under sealed orders; destination revealed as Tokyo Bay",
+      "The submarine penetrates the heavily mined entrance to Tokyo Bay to land a meteorologist for the Doolittle Raid",
+      "Emergency appendix surgery performed underwater by a corpsman with no medical training is the film's most celebrated sequence",
+      "The US Navy used the film as a training tool; the Copperfin set was designed from an accurate (deliberately composite) submarine blueprint",
+      "Called 'the granddaddy of submarine films' — Run Silent Run Deep, Das Boot, and U-571 all descend from it",
+      "Cary Grant was borrowed from Columbia in exchange for Humphrey Bogart (who went to make Sahara); Grant approved first-time director Daves himself"
+    ],
+    "reflection": "The foundational text of the American submarine film — everything in the genre from the 1950s through Das Boot is in dialogue with this picture. Daves was a first-time director given one of the most technically demanding productions in wartime Hollywood; he rose to it. Cary Grant plays against type as a quiet, authoritative captain, and it's one of his best dramatic performances. The emergency appendectomy under depth-charge attack is still tense eighty years later. The Navy's cooperation was so complete that the film doubled as a training document. The ideological content is of its moment — home, family, and American values are invoked at every turn — but the craftsmanship transcends the propaganda. Also in this database: Submarine Seahawk (1958) directly borrowed stock footage from this film."
   }
 ]
+
