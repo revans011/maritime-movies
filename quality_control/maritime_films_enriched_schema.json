@@ -1,0 +1,519 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/maritime_films_schema.json",
+  "title": "Restructured Maritime Film Catalogue",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "title",
+      "original_title",
+      "year",
+      "release_date",
+      "release_date_notes",
+      "film_type",
+      "runtime_minutes",
+      "countries",
+      "languages",
+      "studios",
+      "directors",
+      "writers",
+      "cast",
+      "genres",
+      "historical_periods",
+      "historical_figures",
+      "maritime_categories",
+      "maritime_topics",
+      "vessels",
+      "bodies_of_water",
+      "ports_and_locations",
+      "maritime_occupations",
+      "based_on",
+      "music",
+      "awards",
+      "watch_links",
+      "maritime_connections",
+      "reflection",
+      "review_notes",
+      "legacy_record",
+      "enrichment"
+    ],
+    "properties": {
+      "id": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "title": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "original_title": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "release_date_notes": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "film_type": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "maritime_connections": {
+        "type": [
+          "string",
+          "array",
+          "null"
+        ],
+        "items": {
+          "type": "string"
+        }
+      },
+      "reflection": {
+        "type": [
+          "string",
+          "array",
+          "null"
+        ],
+        "items": {
+          "type": "string"
+        }
+      },
+      "year": {
+        "type": [
+          "integer",
+          "null"
+        ]
+      },
+      "release_date": {
+        "anyOf": [
+          {
+            "type": "null"
+          },
+          {
+            "type": "string",
+            "format": "date",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        ]
+      },
+      "runtime_minutes": {
+        "type": [
+          "integer",
+          "null"
+        ],
+        "minimum": 0
+      },
+      "countries": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "languages": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "studios": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "directors": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "writers": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "genres": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "historical_periods": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "historical_figures": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "maritime_topics": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "bodies_of_water": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "ports_and_locations": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "maritime_occupations": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "review_notes": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "maritime_categories": {
+        "type": "array",
+        "items": {
+          "enum": [
+            "Naval warfare",
+            "Merchant shipping",
+            "Fishing",
+            "Whaling",
+            "Piracy",
+            "Exploration",
+            "Ocean voyage",
+            "Ocean survival",
+            "Shipwreck",
+            "Maritime disaster",
+            "Yachting and recreation",
+            "Maritime labor",
+            "Immigration and passage",
+            "Coastal community",
+            "Lighthouse and lifesaving",
+            "Submarine operations",
+            "Offshore industry",
+            "River and inland navigation",
+            "Maritime law and crime",
+            "Colonization and imperial expansion",
+            "Marine science and conservation",
+            "Other maritime subject"
+          ]
+        },
+        "uniqueItems": true
+      },
+      "cast": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "actor",
+            "character",
+            "original_text"
+          ],
+          "properties": {
+            "actor": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "character": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "original_text": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "vessels": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "type",
+            "fictional",
+            "original_text"
+          ],
+          "properties": {
+            "name": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "type": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "fictional": {
+              "type": [
+                "boolean",
+                "null"
+              ]
+            },
+            "original_text": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "awards": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "organization",
+            "ceremony",
+            "year",
+            "category",
+            "recipient",
+            "result",
+            "original_text"
+          ],
+          "properties": {
+            "organization": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "ceremony": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "year": {
+              "type": [
+                "integer",
+                "null"
+              ]
+            },
+            "category": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "recipient": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "result": {
+              "enum": [
+                "Won",
+                "Nominated",
+                "Finalist",
+                "Honored",
+                null
+              ]
+            },
+            "original_text": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "watch_links": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "url",
+            "platform",
+            "notes"
+          ],
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "platform": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "notes": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "based_on": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "type",
+          "title",
+          "author"
+        ],
+        "properties": {
+          "type": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "author": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "music": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "composers",
+          "songs_or_themes",
+          "notes"
+        ],
+        "properties": {
+          "composers": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "songs_or_themes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "legacy_record": {
+        "type": "object"
+      },
+      "enrichment": {
+        "type": "object",
+        "required": [
+          "status",
+          "processed_at",
+          "match",
+          "sources",
+          "field_provenance",
+          "changes",
+          "conflicts",
+          "review_notes"
+        ],
+        "properties": {
+          "status": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "Enriched",
+              "Matched, no additions",
+              "Review required",
+              "Unmatched",
+              "Error",
+              null
+            ]
+          },
+          "processed_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "match": {
+            "type": "object"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "field_provenance": {
+            "type": "object"
+          },
+          "changes": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "conflicts": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "review_notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

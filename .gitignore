@@ -3,3 +3,6 @@
 *.woff
 *.html
 /old
+TMDB_API_TOKEN.rtf
+*.tsv.gz
+imdb-datasets/

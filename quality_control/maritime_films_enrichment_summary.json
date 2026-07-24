@@ -1,0 +1,33 @@
+{
+  "total_records": 320,
+  "imdb_high_confidence_matches": 184,
+  "tmdb_high_confidence_matches": 186,
+  "matched_by_both": 184,
+  "unmatched_records": 29,
+  "records_enriched": 146,
+  "records_matched_with_no_additions": 0,
+  "records_requiring_review": 145,
+  "records_with_conflicts": 41,
+  "records_with_errors": 0,
+  "fields_filled": {
+    "runtime_minutes": 187,
+    "original_title": 186,
+    "film_type": 176,
+    "release_date": 82
+  },
+  "fields_expanded": {
+    "writers": 203,
+    "genres": 267,
+    "countries": 180,
+    "languages": 183,
+    "studios": 111,
+    "cast": 349,
+    "directors": 12
+  },
+  "processed_at": "2026-07-23T15:21:47Z",
+  "tmdb_access": "Available",
+  "validation": {
+    "valid": true,
+    "records_with_violations": 0
+  }
+}
